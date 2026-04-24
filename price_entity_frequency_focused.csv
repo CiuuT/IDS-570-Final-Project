@@ -1,0 +1,1274 @@
+entity,label,count
+Exchange,ORG,209
+England,GPE,167
+Trade,ORG,106
+Commodities,ORG,64
+Europe,LOC,52
+France,GPE,49
+Kingdom,GPE,45
+Realm,GPE,43
+Cloth,PERSON,36
+London,GPE,36
+Holland,GPE,34
+Spain,GPE,33
+Venice,GPE,31
+Bills,ORG,29
+Countries,ORG,29
+Turkey,GPE,27
+Wares,PERSON,27
+Mint,ORG,26
+Indigo,ORG,26
+Scotland,GPE,26
+Pepper,ORG,25
+Brokeridge,ORG,25
+six pence,MONEY,24
+Ships,ORG,24
+Merchants,ORG,23
+Commonwealth,ORG,22
+Great Britain,GPE,22
+Nations,ORG,21
+Amsterdam,GPE,21
+Lands,GPE,20
+India,GPE,20
+Ducats,GPE,20
+Clothes,ORG,18
+Par,ORG,18
+Starlin,PERSON,18
+Commodity,ORG,18
+four pence,MONEY,18
+Factoridge,GPE,16
+Germany,GPE,16
+WHEAT,ORG,16
+Indies,ORG,16
+Law,PERSON,16
+Cutcheneale,ORG,15
+America,GPE,15
+Magistrates,ORG,15
+Province,GPE,15
+Cloves,ORG,14
+Majesty,PERSON,14
+the East Indies,ORG,14
+Italy,GPE,14
+China,GPE,14
+Bullion,ORG,13
+Magistrate,ORG,12
+Doller,PERSON,12
+Price,ORG,12
+the Provincial Mints,ORG,12
+Antuerp,ORG,11
+Island,GPE,11
+Staple,ORG,11
+Portugal,GPE,11
+Paradoxes,ORG,11
+Traffic,ORG,11
+Clothier,ORG,11
+Merchants,PERSON,11
+Rents,PERSON,10
+Poland,GPE,10
+Positive Exchange,ORG,10
+Bankers,ORG,10
+Nation,ORG,10
+Chapmen,GPE,10
+King Henry,PERSON,10
+Nutmegs,ORG,10
+Ducats,PERSON,9
+Bodine,PERSON,9
+Crown,ORG,9
+Trades,ORG,9
+Rome,GPE,9
+Tower,ORG,9
+Bill,PERSON,9
+falleth,PERSON,9
+Clothes,PERSON,9
+Factoridge,LOC,8
+the Positive Exchange,ORG,8
+Prohibiting,GPE,8
+Maluedeis,PERSON,8
+Frankford,ORG,8
+twenty pence,MONEY,8
+MICHAELMAS,ORG,8
+Russia,GPE,8
+eight pence,MONEY,8
+Danes,ORG,8
+Commerce,ORG,8
+knoweth,PERSON,7
+Lixborne,GPE,7
+Malynes,LOC,7
+Henry,PERSON,7
+Bullion,PERSON,7
+Plate,ORG,7
+Silver,GPE,7
+the Public Measure,ORG,7
+Lituania,GPE,7
+Prussia,GPE,7
+Mace,PERSON,7
+Money,ORG,7
+Zealand,GPE,7
+Coin,ORG,7
+maketh,PERSON,7
+Merchant,PERSON,7
+Royal 2 ½,ORG,6
+ten pence,MONEY,6
+Rate,PERSON,6
+Baker,PERSON,6
+Silk,LOC,6
+telleth him,PERSON,6
+Wines,GPE,6
+Peru,GPE,6
+the Canker of England's,ORG,6
+Lion Doller,PERSON,6
+Commission,ORG,6
+lieu thereof,PERSON,6
+Flabs of Groninghen 4,ORG,6
+24 guilders,MONEY,6
+Debts,PERSON,6
+Hires,ORG,6
+Villages,ORG,6
+Towns,GPE,6
+the West Indies,GPE,6
+Mariners,ORG,6
+Paris,GPE,6
+Clothiers,ORG,6
+Company,ORG,6
+Christendom,ORG,6
+Neighbours,ORG,6
+Bills of Exchanges,ORG,6
+Sea,LOC,6
+three Lion Dollars,MONEY,6
+Duyts,PERSON,6
+one penny,MONEY,6
+the Council of State,ORG,6
+"Imposts, Demesnes",ORG,6
+Town,GPE,6
+six guilders,MONEY,6
+Estates,GPE,5
+Monsieur Bodine,PERSON,5
+Publica Mensura,PERSON,5
+Velvets,GPE,5
+Seller,PERSON,5
+Easterlings,PERSON,5
+shew hereafter,PERSON,5
+Tobacco,ORG,5
+Albeit,GPE,5
+the East-Indies,ORG,5
+twenty shillings,MONEY,5
+Wools,PERSON,5
+Treatise,ORG,5
+State,ORG,5
+Barbary,PERSON,5
+Misselden,ORG,5
+Errors,ORG,5
+East India,LOC,5
+East,LOC,5
+Barter,PERSON,5
+Manufacture,ORG,5
+West Indies Fleet,ORG,5
+Posito,PERSON,5
+Partida,PERSON,5
+Sugar,GPE,5
+twelve pence,MONEY,5
+Misteca,PERSON,5
+Fleetwood,ORG,5
+Currant Exchange,ORG,5
+Nobility,ORG,5
+Doller,ORG,5
+Takers,ORG,5
+a penny,MONEY,5
+twenty-two guilders,MONEY,4
+Newcastle,GPE,4
+Parliament,ORG,4
+Earth,LOC,4
+Planting,GPE,4
+twenty-three guilders,MONEY,4
+Nobleman,PERSON,4
+Usury,ORG,4
+Articles,PERSON,4
+Banks,PERSON,4
+the West Indies,ORG,4
+Florence,ORG,4
+Monopoly,ORG,4
+Indostan,GPE,4
+King,PERSON,4
+2:10s,MONEY,4
+Monopolies,PERSON,4
+"Commodities, & the",ORG,4
+40 pence,MONEY,4
+Monsieur Malestroit,PERSON,4
+Soul,PERSON,4
+Heart,ORG,4
+Downs,ORG,4
+the Low-Exchange,ORG,4
+Banks and Bankers,ORG,4
+Banks,GPE,4
+Crusats of Lixborne,PERSON,4
+98 pence,MONEY,4
+Crusat,PERSON,4
+81 pence,MONEY,4
+twelve shillings,MONEY,4
+Madrill to Lixborne,ORG,4
+Ducats 12111 Duc,ORG,4
+Centre,GPE,4
+Statutes,PERSON,4
+Navigation,PERSON,4
+Custom,PERSON,4
+Easterlings,ORG,4
+Buyer,PERSON,4
+three per cent,MONEY,4
+Credit,ORG,4
+the Realm of England,GPE,4
+the Naturall Exchange,ORG,4
+bee,ORG,4
+Tallow,GPE,4
+Ireland,GPE,4
+Flo,PERSON,4
+106 pence,MONEY,4
+Bank,ORG,4
+Duc,PERSON,4
+Florins,PERSON,4
+13130 Dollars,MONEY,4
+Creutzers,ORG,4
+113 ½ pence,MONEY,4
+114 pence,MONEY,4
+Antithesis,PERSON,4
+115 ½ pence,MONEY,4
+115 pence,MONEY,4
+Old England,LOC,4
+Communibus,ORG,4
+Shillings,PERSON,4
+Scotch Prizes,ORG,4
+Voyage,ORG,4
+Edward III,PERSON,4
+Edward III.,PERSON,4
+Prince Henry,PERSON,4
+4,MONEY,4
+William III.,PERSON,4
+Corints,GPE,4
+Levant Wines,ORG,4
+the Royal Exchange,ORG,4
+nine pence,MONEY,4
+Britain,GPE,4
+the Planet Saturn,LOC,4
+Pag,ORG,4
+the Philip Doller,ORG,4
+ten shillings ten pence,MONEY,3
+Exchanges,LOC,3
+Taker,ORG,3
+Edinburgh,GPE,3
+Premio,PERSON,3
+Flem,ORG,3
+Banks of Exchanges,ORG,3
+Coins,PERSON,3
+party & party,ORG,3
+Bizanson,PERSON,3
+Register,ORG,3
+Flemiſh,LOC,3
+Statute Staple,ORG,3
+Turf,PERSON,3
+the King's Seas,ORG,3
+eighteen pence,MONEY,3
+Eastland Merchants,ORG,3
+Farms,PERSON,3
+Staple Trade,ORG,3
+Mercers of London,ORG,3
+Emperors,ORG,3
+Sweden,GPE,3
+Preemption of Tin,ORG,3
+Persia,GPE,3
+Velvet,PERSON,3
+Peate,ORG,3
+Troy,GPE,3
+Bankerers,ORG,3
+Middleborough,GPE,3
+Rouen,PERSON,3
+maketh the,PERSON,3
+Banker,ORG,3
+quae,GPE,3
+draweth,PERSON,3
+deliverer,ORG,3
+fifty and six pence,MONEY,3
+Antuerpe,PERSON,3
+Commodities of Trade,ORG,3
+Shipping,PERSON,3
+Asper,ORG,3
+Mints,ORG,3
+netherlands Golden Riders,ORG,3
+Towns,ORG,3
+Gold and Silver Bullion,ORG,3
+the Generals of Mints,ORG,3
+these united Provinces,ORG,3
+Magistrates,LOC,3
+three guilders,MONEY,3
+Our said Proclamation,ORG,3
+the Council of the Admiralty,ORG,3
+Lords,ORG,3
+Committees,ORG,3
+the Estates General,ORG,3
+Shahes,PERSON,3
+Cardinal Wolsey,PERSON,3
+6 pence,MONEY,3
+the King's Custom,ORG,3
+Persons,PERSON,3
+Markets,ORG,3
+Confession,ORG,3
+the Complaint of our Clothiers,ORG,3
+Foreign Dealers,ORG,3
+the Societies of Merchants,ORG,3
+Foreign-Merchants,ORG,3
+the Baseness of this Manufacture,ORG,3
+Portugal Sugars,ORG,3
+the Exportation of Woollen Manufactures,ORG,3
+the Trade of Turkey,GPE,3
+Turkey Silk,ORG,3
+Silk,ORG,3
+Ulloa,PERSON,3
+Westmoreland,GPE,3
+Shropshire,GPE,3
+Lionnois,PERSON,3
+Elizabeth,PERSON,3
+Mary,PERSON,3
+Farmers,ORG,3
+Silver,PERSON,3
+Monies,ORG,3
+Compass,ORG,3
+Eton,PERSON,3
+Natural,ORG,3
+the Progress of Improvement,ORG,3
+the Merchant Stranger,ORG,3
+Spirit,ORG,3
+King's,ORG,3
+Time,ORG,3
+Royal,ORG,3
+Spherical,ORG,3
+Gentleman,ORG,3
+Worthy,PERSON,3
+Noble,PERSON,3
+two pence,MONEY,3
+Angel,PERSON,3
+Florin,GPE,3
+ten pro cent,MONEY,2
+Eastland,GPE,2
+Interest,ORG,2
+Par of Exchange,ORG,2
+Embroiderer,PERSON,2
+four penny,MONEY,2
+20.,MONEY,2
+Port,GPE,2
+Usury,GPE,2
+King's Customs,ORG,2
+Usurers,ORG,2
+Porte,ORG,2
+Ocean,ORG,2
+Proclamation,GPE,2
+Publica mensura,PERSON,2
+Hamborow,LOC,2
+Embden,GPE,2
+Sums,PERSON,2
+Callings,ORG,2
+The East-India Company,ORG,2
+Vent,GPE,2
+the Sugar-Bakers,ORG,2
+Barbadoes Sugars,ORG,2
+Radix Cambij,PERSON,2
+bringeth,PERSON,2
+causeth us,ORG,2
+Spanish Tobacco,ORG,2
+Rich,PERSON,2
+6 shillings 8 pence,MONEY,2
+seven shillings,MONEY,2
+Sugar-Bakers,ORG,2
+Younger,ORG,2
+The Accidental Reciprocal Exchanges,ORG,2
+Fairs,GPE,2
+Fermer,ORG,2
+Rechange,GPE,2
+9 shillings 7 pence,MONEY,2
+Ocean,LOC,2
+Noblemen &,ORG,2
+Malestroit,PERSON,2
+States,GPE,2
+Question,PERSON,2
+Raising,PERSON,2
+Plate,GPE,2
+Exchanger,PERSON,2
+Knights and Gentry,ORG,2
+La,GPE,2
+South-west,GPE,2
+the Nobility of England,ORG,2
+Sattin-Doublet,ORG,2
+Grocer,GPE,2
+loseth unawares,PERSON,2
+Howbeit,GPE,2
+North-east,LOC,2
+driveth,PERSON,2
+Northwest,ORG,2
+Lions,ORG,2
+Fair,ORG,2
+Engrossers,ORG,2
+Party,ORG,2
+the Master of the Ship and Mariners,ORG,2
+Barratrie,PERSON,2
+Map,PERSON,2
+"house, & finding",ORG,2
+Constable,ORG,2
+Salt-Petre,PERSON,2
+Custom,ORG,2
+Exchequer,ORG,2
+Sheyre,LOC,2
+Gold or Bullion,ORG,2
+Bullion,GPE,2
+Non-vſe,ORG,2
+Aristotle,GPE,2
+Seneca,PERSON,2
+Cicero,ORG,2
+Scrivener,ORG,2
+Linen,PERSON,2
+Notary,GPE,2
+hundreth pounds,PERSON,2
+Netherlands,GPE,2
+thousand pounds,MONEY,2
+London Merchant,ORG,2
+Sea-Coals,ORG,2
+Plenty,ORG,2
+"the Seas, Th'",ORG,2
+Owner,ORG,2
+the Owner of the Ship,ORG,2
+Latter,ORG,2
+Nicholas,PERSON,2
+Constituant,PERSON,2
+Easterlins,PERSON,2
+Bankrupt,ORG,2
+the Bankrupt for Wares,ORG,2
+hundreth,PERSON,2
+Brankrupt,GPE,2
+Coins,GPE,2
+Beer and Ale,ORG,2
+one Penny,MONEY,2
+Quartfield,ORG,2
+about £48,MONEY,2
+Mum,PERSON,2
+john,PERSON,2
+Monopolies,GPE,2
+Passive,ORG,2
+Trade to England,ORG,2
+Annum,ORG,2
+Guiny,ORG,2
+Profit,ORG,2
+this Trade for England,ORG,2
+Stock of Flemish Prizes,ORG,2
+Immunities and Privileges,ORG,2
+Strength,ORG,2
+Newfoundland,GPE,2
+Lazy,ORG,2
+Colonies,GPE,2
+Fleets,ORG,2
+Ships of War,ORG,2
+Propriety,ORG,2
+Fishing Harbours,ORG,2
+Barbadoes,GPE,2
+eight Shillings six Pence,MONEY,2
+Coals,ORG,2
+Wines,LOC,2
+Muscovado,GPE,2
+three Pounds,MONEY,2
+Brazeil-Fleets,ORG,2
+Lawns,ORG,2
+Tradesman,PERSON,2
+Bills of Exchange,ORG,2
+Bread,PERSON,2
+Law on Butchers,ORG,2
+Butcher,PERSON,2
+the firſt Exchange,ORG,2
+Trader,ORG,2
+Fishermen,LOC,2
+Oppression,GPE,2
+the Fruits of the Earth,ORG,2
+Neighbours,PERSON,2
+Money,PERSON,2
+Penny,ORG,2
+Growers and Clothiers,ORG,2
+Profession,ORG,2
+Elder Servants,ORG,2
+Material,ORG,2
+"Breakers, Combers,",ORG,2
+Fuller,ORG,2
+"Shearmen, Clothiers, Dyers",ORG,2
+twelve penny,MONEY,2
+five per cent,MONEY,2
+two per cent,MONEY,2
+Essential to Trade as Victuals,ORG,2
+the Public Interest,ORG,2
+Considerations,ORG,2
+Justice,ORG,2
+Woollen Manufacture,PERSON,2
+Foreigners,ORG,2
+Marks,ORG,2
+Ware,ORG,2
+Landlord,PERSON,2
+one per cent,MONEY,2
+Augustus,PERSON,2
+House,ORG,2
+Riches,ORG,2
+Shiping,ORG,2
+Immunities,GPE,2
+the The State,ORG,2
+three pence,MONEY,2
+the Starlin Standard,ORG,2
+Egypt,GPE,2
+jerusalem,GPE,2
+Rider,ORG,2
+Patentees,ORG,2
+Assignes,ORG,2
+labor,ORG,2
+New York,GPE,2
+North America,LOC,2
+Iacobus,GPE,2
+Intercourse,ORG,2
+halfpenny,PERSON,2
+Kingdome,GPE,2
+the Natiue Commodities,ORG,2
+Coine,GPE,2
+halfpenny sterling,PERSON,2
+Latium,GPE,2
+Shetland,LOC,2
+Buenos Ayres,ORG,2
+Tenpence,ORG,2
+the West-Indies,ORG,2
+Virginia,GPE,2
+eight-pence,MONEY,2
+"Money, Bullion",ORG,2
+Together,PERSON,2
+Deliuerer,PERSON,2
+10 per cent,MONEY,2
+Bills of Exchanges for,ORG,2
+Japan,GPE,2
+the Netherlands,GPE,2
+Servant,ORG,2
+Macedon,GPE,2
+Transfer,PERSON,2
+Standard,ORG,2
+46:14:6,MONEY,2
+Treasury,ORG,2
+6 per cent,MONEY,2
+Dupré de St Maur,PERSON,2
+Author,GPE,2
+Genoa,PERSON,2
+Eton,ORG,2
+the Regiam Majestatem,PERSON,2
+Ruddiman,PERSON,2
+Anderson’s Diplomata Scotiae,ORG,2
+Henry III.,PERSON,2
+Tumbrel,ORG,2
+Pillory,ORG,2
+forty pence,MONEY,2
+forty five pence,MONEY,2
+47:14s,MONEY,2
+Goldsmiths and Merchants,ORG,2
+about £ 1:12:8,MONEY,2
+Byard,PERSON,2
+3:5s,MONEY,2
+Lowndes’s Essay,ORG,2
+the Silver Coin,ORG,2
+fifteen pence,MONEY,2
+Artificial,ORG,2
+Dover,GPE,2
+Stones,ORG,2
+only £ 1:13:9,MONEY,2
+1:5:2,MONEY,2
+Great,GPE,2
+Produce,PERSON,2
+fourteen-pence,MONEY,2
+Spirits,LOC,2
+Sinews,ORG,2
+Basis of true valuation,ORG,2
+Birmingham,GPE,2
+risen,PERSON,2
+fed,ORG,2
+Equin,ORG,2
+128 thousand pounds,MONEY,2
+Moon,PERSON,2
+Houses of Parliament,ORG,2
+Mace,ORG,2
+Times,ORG,2
+Traffic and Commerce,ORG,2
+Currant,PERSON,2
+the Cloth Trade,ORG,2
+Nutmegs 3 s,ORG,2
+Broker,PERSON,2
+doth,PERSON,2
+Spice,GPE,2
+Moneys and Exchange,ORG,2
+Kings,PERSON,2
+Indian Roots,PERSON,2
+Dropsy,ORG,2
+Prohibitions,PERSON,2
+Surfeit,ORG,2
+Free Trade,ORG,2
+Lex Mercatoria,PERSON,2
+Luce Meridiana Clarius,PERSON,2
+needeth,PERSON,2
+Pernicious Asguments,PERSON,2
+Bullion and Dollars,ORG,2
+Commodities,GPE,2
+Accuseth,PERSON,2
+Suggestion,ORG,2
+the burden & can,ORG,2
+the Clothier & the Wool,ORG,2
+Staplers,GPE,2
+Recall Trade of Merchants,ORG,2
+Triumphant Chariot,ORG,2
+Coach,ORG,2
+Caligula,GPE,2
+Suetornius & Di●n.,ORG,2
+Army,ORG,2
+Merchant,ORG,2
+English Merchants,ORG,2
+Assertion,ORG,2
+Relations and Acquaintance,ORG,2
+Wooll,PERSON,2
+Gentleman,PERSON,2
+Territory,ORG,2
+Barters,PERSON,2
+Memories,ORG,2
+Londoners,LOC,2
+Amsterdamers,PERSON,2
+Soldiers,ORG,2
+Calculations,ORG,2
+Account,ORG,2
+Fathers,ORG,2
+Subsistence,ORG,2
+Sugars,PERSON,2
+Doors,ORG,2
+the English Merchants,ORG,2
+the East-India Company,LOC,2
+s. 9d,PERSON,2
+William,PERSON,2
+Positive,LOC,2
+Philip,PERSON,2
+Freight,ORG,2
+Imperial Royal,ORG,2
+six per cent,MONEY,2
+Waight,PERSON,2
+English & foreign coin all,ORG,2
+the Edward Crown,PERSON,2
+Groats,GPE,2
+forty Thousand pounds' Stock,MONEY,2
+Memoires,PERSON,2
+Angel Noble,PERSON,2
+"Commodities, Trade",ORG,1
+Vintage,ORG,1
+Malesties Praeemption,ORG,1
+Grower,PERSON,1
+Combination,ORG,1
+Commonweal,ORG,1
+Counterpoise,PERSON,1
+Engrossing of Trade,ORG,1
+Hardheads,GPE,1
+"Plackx, Atchisons, Nonsunts",ORG,1
+Turnovers,ORG,1
+"the Realm, & the merchandizing exchange",ORG,1
+sixty pence,MONEY,1
+the west Indies,ORG,1
+the Realm &,ORG,1
+"Madril, Lions, Civil,",ORG,1
+exchequer & mints,ORG,1
+8 pence,MONEY,1
+2 pence,MONEY,1
+the Plantation of Virginia,ORG,1
+Bermodaes,PERSON,1
+Unprofitable,ORG,1
+Elephantike Body,ORG,1
+Transportation,ORG,1
+Defective,PERSON,1
+lib,PERSON,1
+Ariſtotles,GPE,1
+Action and Paſsion,ORG,1
+Labyrinth,GPE,1
+Paſsiue,PERSON,1
+Woll,ORG,1
+Goodnes,ORG,1
+Hee,PERSON,1
+the Commodities of Holland,ORG,1
+Kingdome,ORG,1
+Boores,PERSON,1
+Countrey,PERSON,1
+Linnens,PERSON,1
+Publia menſura,PERSON,1
+Chronicles,PERSON,1
+six shillings,MONEY,1
+Lisbon,GPE,1
+Hollanders,ORG,1
+Serpent Aspis,PERSON,1
+the Trade of Calicoes,ORG,1
+South Barbary,GPE,1
+Cambrics,GPE,1
+Linen,ORG,1
+Engliſh,PERSON,1
+Sterling,ORG,1
+100 pounds Sterling,MONEY,1
+198 pounds,MONEY,1
+9 pence,MONEY,1
+Naturall Exchange,ORG,1
+ſo,PERSON,1
+the Double Rider,ORG,1
+Iacobus,ORG,1
+Iudicious,ORG,1
+becauſe mony,PERSON,1
+becauſe hee,PERSON,1
+moſt skill,PERSON,1
+hath moſt aduantage,PERSON,1
+the Trade of Raw-,ORG,1
+Viz,PERSON,1
+the East-India Company,ORG,1
+China Raw,ORG,1
+l. s. d. 2500000,PERSON,1
+d. ob,PERSON,1
+East-India,GPE,1
+Pepper,GPE,1
+the East-India,LOC,1
+Hampshire,GPE,1
+The East-India Trade,LOC,1
+Ships Essex,ORG,1
+Kent,PERSON,1
+Berkshire,PERSON,1
+Trenalls,ORG,1
+Bills,GPE,1
+Bartholomew,PERSON,1
+Gerome,GPE,1
+the Procurations or Commissions,ORG,1
+Commission of a Merchant,ORG,1
+a Letter of Credit,ORG,1
+Drapers,PERSON,1
+The East-India Trade,ORG,1
+Standard,PERSON,1
+Coin of other Countries,ORG,1
+Procuration,ORG,1
+this Trade in Spice,ORG,1
+Spice,ORG,1
+Grandfather,PERSON,1
+the Custom of Merchants,ORG,1
+breaketh,PERSON,1
+Kings,ORG,1
+"the Banks of Madrill, Lions",ORG,1
+Usurers,PERSON,1
+the Judgement and Experience of my Country Men,ORG,1
+Judgements of,PERSON,1
+findeth,PERSON,1
+Publicae Mensura,PERSON,1
+Negotiativa,ORG,1
+leaveth,PERSON,1
+Bullion or Ryals of Plate,ORG,1
+"Cloth, Bays, Perpetuanoes",ORG,1
+Tobacco,GPE,1
+Realme,ORG,1
+Pepper and Calicoes,ORG,1
+Monnoies,ORG,1
+Plymouth,ORG,1
+Fermers,ORG,1
+five hundred pounds,MONEY,1
+Warlike Provisions,ORG,1
+Shipping,GPE,1
+Monsieur Bodine,ORG,1
+mensura,ORG,1
+General Rules,ORG,1
+the united Low Provinces 1622,ORG,1
+Magistrates of the,ORG,1
+netherlands golden Royals,ORG,1
+Treasurors,ORG,1
+Newfoundland Fish,ORG,1
+Motus,ORG,1
+Permutation of Monies,ORG,1
+John Smith,PERSON,1
+wherein inequality,PERSON,1
+Accidents,ORG,1
+Maryland,GPE,1
+Islands,ORG,1
+Lender,ORG,1
+Sufferers,ORG,1
+Subject,ORG,1
+Matthew,PERSON,1
+Decker,PERSON,1
+English East,LOC,1
+Prince's Valuation,ORG,1
+Countries,GPE,1
+Sell,PERSON,1
+Losses,PERSON,1
+Undoing,ORG,1
+Customs,ORG,1
+Taxes,ORG,1
+Credit of Land,ORG,1
+Labour,ORG,1
+One thousand Pounds,MONEY,1
+six shillings eight pence,MONEY,1
+Iron,ORG,1
+Guinea,GPE,1
+Binea,GPE,1
+Africa,LOC,1
+"Iron, Led, Tin",ORG,1
+Glass,PERSON,1
+Lease,ORG,1
+Wools,ORG,1
+Loser,PERSON,1
+the Valuation of Merchants,ORG,1
+five thousand Guilders,MONEY,1
+Contingencies,ORG,1
+Howbeit Exchange of Moneys,ORG,1
+Praeemption,ORG,1
+Wales Charles,PERSON,1
+james,PERSON,1
+this Instance of Woollen Manufacture,ORG,1
+Accusation,ORG,1
+Banks,ORG,1
+this Our Proclamation,ORG,1
+Proportions,ORG,1
+seven shillings six pence,MONEY,1
+Exchange of England,ORG,1
+Commodities and Exchange,ORG,1
+three penny,MONEY,1
+altho,PERSON,1
+Ducat,GPE,1
+Foreign Manufactors,ORG,1
+i. e. the Nation,PERSON,1
+the Importation and Consumption of Abundance,ORG,1
+Lawns,PERSON,1
+Hollands,ORG,1
+Considerable Diminution,ORG,1
+Silks,ORG,1
+Hull,PERSON,1
+Hans,PERSON,1
+Foreign Ware,ORG,1
+Equality and Equity,ORG,1
+Retailer,PERSON,1
+Brokers,PERSON,1
+Foreigner,ORG,1
+Yards,PERSON,1
+Retailers,ORG,1
+Public Officers,PERSON,1
+Sell,ORG,1
+Grower,ORG,1
+Stock of Sheep,ORG,1
+Rent and Value of Land,ORG,1
+Societies of English,ORG,1
+Regulations,PERSON,1
+Ready Money,ORG,1
+East-India Commodities,ORG,1
+Bengall Silk,ORG,1
+Bengall,GPE,1
+the Turkey Merchants,ORG,1
+the Importation of Silk,ORG,1
+Bailifeses,ORG,1
+Piler,PERSON,1
+Sprats,PERSON,1
+Decay,PERSON,1
+the European World,ORG,1
+the East-India Commodities,LOC,1
+the Trade of the East-Indies,ORG,1
+Cinnamon,ORG,1
+Bantam,PERSON,1
+Cobblers,ORG,1
+Red Herrings,ORG,1
+Different,PERSON,1
+the Common Trade,ORG,1
+Interest,GPE,1
+d.,PERSON,1
+Moneta,PERSON,1
+Island,LOC,1
+Interest of Money,ORG,1
+Interest Money,ORG,1
+Woollen Manufactures,PERSON,1
+the King of Persia,PERSON,1
+Bengal Silk,PERSON,1
+Strength,PERSON,1
+Happiness,ORG,1
+Leases,LOC,1
+Authority,ORG,1
+Wareswil,ORG,1
+Banks and Bankers o● Christendom,ORG,1
+Shipping,ORG,1
+Kingdoms,PERSON,1
+the East Countries,LOC,1
+Sight,ORG,1
+Tackling,GPE,1
+"Cordage, Ordnance, Victuals,",ORG,1
+Munition and Provisions,ORG,1
+Commanders,ORG,1
+Societies,PERSON,1
+the Common Libertie,ORG,1
+the Publique Vtility of the Kingdome,ORG,1
+Doller,GPE,1
+Species,PERSON,1
+Publique Vtility,ORG,1
+the Common Losse,ORG,1
+Suit of Mill,ORG,1
+Tolle,GPE,1
+Milles,PERSON,1
+the Publike Liberty,ORG,1
+the Setting of the Price,ORG,1
+Deare,ORG,1
+Greater,LOC,1
+Aristotle of Thales Milesius,ORG,1
+Astrologie,PERSON,1
+the Ilands of Melazo & Chius,ORG,1
+Specie,GPE,1
+Bengal,GPE,1
+the Trade of Bengal,ORG,1
+Banckes,ORG,1
+Banck,PERSON,1
+Quantities,LOC,1
+Lesse,GPE,1
+Edward I.,PERSON,1
+Sovereign King,PERSON,1
+taken complexly,PERSON,1
+james Laureate,PERSON,1
+Broker of Exchange,ORG,1
+3:18s,MONEY,1
+3:19s,MONEY,1
+3:17:7,MONEY,1
+Protested Bills,GPE,1
+Locke,PERSON,1
+tenpence halfpenny,PERSON,1
+Change,ORG,1
+Trade and Traine,ORG,1
+Money for Wares,ORG,1
+the Notaries Protest,ORG,1
+Letters of Advice,ORG,1
+Acquittances,PERSON,1
+Forreine,GPE,1
+The French Company The French Company,ORG,1
+Order,PERSON,1
+Notary,PERSON,1
+Highland,LOC,1
+hath,PERSON,1
+Appendix,PERSON,1
+Leith,ORG,1
+seven-pence,MONEY,1
+Lerwick,ORG,1
+Isocrates,GPE,1
+Usance,ORG,1
+forty per cent,MONEY,1
+a thousand per cent,MONEY,1
+the united kingdom,GPE,1
+Eighteen pence,MONEY,1
+seven pence,MONEY,1
+The Running Lotaries,ORG,1
+Lotaries,ORG,1
+Carbuncles,PERSON,1
+Letters Patents,ORG,1
+Occidental,ORG,1
+Oriental Pearls,ORG,1
+s. d.,PERSON,1
+Barocos,PERSON,1
+Carrat,ORG,1
+Table,ORG,1
+the Island of Zeilan,LOC,1
+the Indians Manecas,ORG,1
+halfpenny dearer,PERSON,1
+3 pro cent,MONEY,1
+Havens,PERSON,1
+Ports,ORG,1
+Bills of Entries,ORG,1
+Customhouse,GPE,1
+Variations,ORG,1
+First Period.—In 1350,ORG,1
+the Bills of Entries,ORG,1
+Rouen and Calais,ORG,1
+Herrings,GPE,1
+muscovada,GPE,1
+Flanders,ORG,1
+Locatio,ORG,1
+Kerseys and Tin,ORG,1
+Tripoli,GPE,1
+Assuror,GPE,1
+Frezier,ORG,1
+"Accizes, Imposts",ORG,1
+Princes and Commonweals,ORG,1
+Carratt,PERSON,1
+Yellow Pearl,PERSON,1
+Pearl,GPE,1
+Quod,PERSON,1
+Prerogatives,ORG,1
+two penny,MONEY,1
+"Dupré de
+      ",PERSON,1
+the Owners or Partners,ORG,1
+Partenership,GPE,1
+Vsura,PERSON,1
+Philip,GPE,1
+Equal Exchange,ORG,1
+the Exchanges of England,GPE,1
+Henry III,PERSON,1
+Seville,GPE,1
+Tower,PERSON,1
+Leghorn,ORG,1
+Civita Vecchia,PERSON,1
+Wardhouse,ORG,1
+Ralph de Born,PERSON,1
+St Augustine’s,PERSON,1
+Canterbury,GPE,1
+William Thorn,PERSON,1
+Bourdeaux,GPE,1
+Bishop Fleetwood,ORG,1
+Rochel,GPE,1
+fidelity,ORG,1
+Lubeck,GPE,1
+Mr Byron,ORG,1
+Chili,GPE,1
+Denmark,GPE,1
+Biscay,GPE,1
+"Dansicke, Riga, Revel",GPE,1
+Sweaden,GPE,1
+twenty shillings nine pence,MONEY,1
+Efficient,ORG,1
+the Essay on the Policy of Grain,ORG,1
+Conquest,ORG,1
+Julius Caesar,ORG,1
+Mr Ruffhead,PERSON,1
+the States of the United Provinces,ORG,1
+the Archduke Albertus,ORG,1
+"Money and Bullion, Enhancing of Silver",ORG,1
+two marks,MONEY,1
+Saint Andrew's Cross,PERSON,1
+Maxim,ORG,1
+Compass,PERSON,1
+Kingdoms,GPE,1
+West-Indies Fleet,ORG,1
+Vintner,PERSON,1
+the Base Money,ORG,1
+2:1:6,MONEY,1
+the Silver Bullion,ORG,1
+1:16:10,MONEY,1
+Barrel,ORG,1
+Butt,GPE,1
+Pipe,ORG,1
+the Valuation of Moneys,ORG,1
+Inuoice,ORG,1
+Cargasson,PERSON,1
+Invoice,GPE,1
+Maluidies,ORG,1
+Conditions,ORG,1
+the West-Indies Fleet,ORG,1
+permitteth,PERSON,1
+Monsieur Malestroit,ORG,1
+dearer,PERSON,1
+King,LOC,1
+4:5s,MONEY,1
+Politician,PERSON,1
+cutteth,PERSON,1
+the royal Exchange,ORG,1
+Cravo di Bastao,PERSON,1
+13 ½ pence,MONEY,1
+The Flat Diamonds,ORG,1
+Henry the,PERSON,1
+Diamond,ORG,1
+That Saint Lewis,PERSON,1
+Values of Gold,ORG,1
+the Value of Silver,ORG,1
+only £ 1:6:8,MONEY,1
+"no less than £ 324,176:10:6",MONEY,1
+"the Corn Trade, Tract",ORG,1
+Philip de Valois,ORG,1
+the Essay on the Police of Grain,ORG,1
+the Flower de Luce,ORG,1
+Artificers,PERSON,1
+Husbandman,ORG,1
+The Fertility of France,ORG,1
+Gregory King,PERSON,1
+Plato,PERSON,1
+Charles I.,PERSON,1
+Mr King,PERSON,1
+twenty-pence,MONEY,1
+King Francis,PERSON,1
+Pope Paul,PERSON,1
+Burcester Oxford,PERSON,1
+the King of England,ORG,1
+Imposts,PERSON,1
+twenty-eight pounds,MONEY,1
+Smith,PERSON,1
+Lib,PERSON,1
+Bank at Lions,ORG,1
+Assurors,ORG,1
+"Cables, Anchors",ORG,1
+Aueridges,ORG,1
+the Union with England,ORG,1
+Buffon,PERSON,1
+Pirates,GPE,1
+Sicily,GPE,1
+Agrippina,GPE,1
+Asinius Celer,PERSON,1
+compelleth us,PERSON,1
+Parity,ORG,1
+Policy,GPE,1
+Blood,GPE,1
+Money and Bullion,ORG,1
+Paulus Aemilius,ORG,1
+The Basis of Exchange,ORG,1
+Basis,ORG,1
+Miller,PERSON,1
+Columbus,GPE,1
+the King and Commonwealth,ORG,1
+Prerogative Royal,ORG,1
+Sheffield,GPE,1
+Office of the King's,ORG,1
+Boters,ORG,1
+considerandus & inspiciendus,ORG,1
+Plare,ORG,1
+Austria,GPE,1
+Sun,LOC,1
+Hedgmint,PERSON,1
+the United Provinces of,ORG,1
+Frankes,GPE,1
+K. saint Lewis,ORG,1
+Denier,ORG,1
+Douzaine,ORG,1
+Monsieur Garrault,PERSON,1
+quantitatis subveniat,PERSON,1
+the Exchange for Money,ORG,1
+Paul Aemylius,PERSON,1
+Marius,ORG,1
+Sylla,PERSON,1
+Histories,ORG,1
+Lucullus,GPE,1
+Religion,ORG,1
+Pompey,PERSON,1
+Kingdoms and Commonweals,ORG,1
+Caesar,ORG,1
+the Balance of Trade,ORG,1
+understandeth,PERSON,1
+the Par of Exchange,ORG,1
+the Currant Exchange,ORG,1
+Strangers Custom,PERSON,1
+Paulus Aemylius,ORG,1
+Monopolies,ORG,1
+Grafton,PERSON,1
+Edward,PERSON,1
+Satutes,PERSON,1
+Cumberland,ORG,1
+Licence,GPE,1
+the Custom House,ORG,1
+Strangers,ORG,1
+Saint Lewis,GPE,1
+five and forty pence,MONEY,1
+Duchess,ORG,1
+thirty shillings,MONEY,1
+Climates,GPE,1
+gold & silver,ORG,1
+450 Dollars,MONEY,1
+Henry the 8,PERSON,1
+the Archduke of Burgundy,ORG,1
+"the Seas, Merchants",ORG,1
+Woolegrower,ORG,1
+3 pence,MONEY,1
+60 pence,MONEY,1
+Toison,ORG,1
+"the angel, & was",ORG,1
+Whereunto,GPE,1
+Gain the Centre,ORG,1
+20 pence,MONEY,1
+Raisins,GPE,1
+Figs,PERSON,1
+Superfluities,GPE,1
+Crowns,PERSON,1
+Noblemen,PERSON,1
+William Sanderson,PERSON,1
+Merchant Adventurer,PERSON,1
+the Rule of exchange,ORG,1
+Rule,PERSON,1
+Print,GPE,1
+Bat,PERSON,1
+Bolonia Sarsenet,ORG,1
+Messina,PERSON,1
+Chamblet,ORG,1
+"Lawns, Cambrics",ORG,1
+Circle,LOC,1
+"Mysteries, &",ORG,1
+Stone,ORG,1
+Bird,ORG,1
+Bird,PERSON,1
+Heighfer,GPE,1
+Three Distinction,ORG,1
+Damask,PERSON,1
+Moscovia,GPE,1
+Bees of a,ORG,1
+Contract,ORG,1
+this Positive Exchange,ORG,1
+3:17:10,MONEY,1
+the Bank of England,ORG,1
+Bank of England,ORG,1
+Contracts,ORG,1
+Fabrica,PERSON,1
+Satin,PERSON,1
+Londonner,PERSON,1
+Hamborough &,ORG,1
+the Rickx Doller,ORG,1
+Richard Martin Knight,PERSON,1
+Richard Saltonstall,PERSON,1
+Henery,PERSON,1
+Thomas,PERSON,1
+Lord Knynet,PERSON,1
+john Williams,PERSON,1
+Placcart,ORG,1
+Rule of Arithmitike,ORG,1
+the Consumption of foreign Commodities,ORG,1
+aequum & bonum,ORG,1
+Money and Exchange,ORG,1
+Stand,ORG,1
+Majesties,ORG,1
+Privy Council,ORG,1
+Six pence,MONEY,1
+4. pence,MONEY,1
+Robert Dudley,PERSON,1
+four per cent,MONEY,1
+eighty pounds,MONEY,1
+Brazil,GPE,1
+Earl of Leycester,PERSON,1
+the Trade of Cloth,ORG,1
+Mr Hume,PERSON,1
+Discourses,ORG,1
+Pennsylvania,GPE,1
+Canker,ORG,1
+Request,PERSON,1
+Nullum,ORG,1
+nine per cent,MONEY,1
+agio,PERSON,1
+Rate,ORG,1
+Guilders,ORG,1
+21 Guilders,MONEY,1
+5 guilders,MONEY,1
+Queen Elizabeth,PERSON,1
+Abstract,ORG,1
+4 Dollars,MONEY,1
+THE Monies of Christendom,ORG,1
+SILVER,ORG,1
+22  ,MONEY,1
+Labyrinth,ORG,1
+Usurer,PERSON,1
+Usury of Course,ORG,1
+the Drapery of foreign Nations,ORG,1
+"Hamborough, Stoade",ORG,1
+Yronmongers,ORG,1
+Hatchets,GPE,1
+Bells,PERSON,1
+Beads,GPE,1
+Needles,GPE,1
+Moluccas,GPE,1
+Starlin Silver,PERSON,1
+45 pence,MONEY,1
+the Office of the King's,ORG,1
+King Edward,PERSON,1
+Indicoe,PERSON,1
+Praeemption,PERSON,1
+Praeemption of Tin,ORG,1
+Matthew Decker,PERSON,1
+fifteen per cent,MONEY,1
+Droits,PERSON,1
+canton,GPE,1
+Government Errors,ORG,1
+Droits,ORG,1
+Lucern,ORG,1
+ten per cent,MONEY,1
+Drapery,ORG,1
+Rates,ORG,1
+Todde,ORG,1
+Plin,PERSON,1
+"more than £30,000",MONEY,1
+"more than £300,000",MONEY,1
+4 Rickx Dollars,MONEY,1

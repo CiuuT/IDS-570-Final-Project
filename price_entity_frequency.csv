@@ -1,0 +1,2458 @@
+entity,label,count
+0,CARDINAL,1561
+2,CARDINAL,1044
+1,CARDINAL,923
+8,CARDINAL,372
+6,CARDINAL,313
+4,CARDINAL,289
+16,CARDINAL,228
+Exchange,ORG,209
+one,CARDINAL,192
+3,CARDINAL,183
+5,CARDINAL,179
+England,GPE,167
+13,CARDINAL,139
+14,CARDINAL,118
+17,CARDINAL,111
+Trade,ORG,106
+first,ORDINAL,105
+two,CARDINAL,101
+12,CARDINAL,86
+three,CARDINAL,82
+0   8,CARDINAL,80
+7,CARDINAL,75
+9,CARDINAL,72
+18,CARDINAL,71
+Merchant,PRODUCT,67
+the quarter,DATE,66
+Commodities,ORG,64
+10,CARDINAL,61
+five,CARDINAL,60
+0   4,CARDINAL,56
+3   4,CARDINAL,56
+0  10,CARDINAL,56
+third,ORDINAL,55
+English,LANGUAGE,54
+Europe,LOC,52
+France,GPE,49
+15,CARDINAL,46
+Kingdom,GPE,45
+ten,CARDINAL,44
+Realm,GPE,43
+six,CARDINAL,38
+20,CARDINAL,37
+Cloth,PERSON,36
+London,GPE,36
+Holland,GPE,34
+Spain,GPE,33
+four,CARDINAL,33
+Venice,GPE,31
+second,ORDINAL,29
+Bills,ORG,29
+Countries,ORG,29
+First,ORDINAL,28
+Turkey,GPE,27
+Wares,PERSON,27
+years,DATE,27
+11,CARDINAL,27
+Mint,ORG,26
+Indigo,ORG,26
+Scotland,GPE,26
+Pepper,ORG,25
+Dutch,NORP,25
+Brokeridge,ORG,25
+Spanish,NORP,24
+0  12,CARDINAL,24
+six pence,MONEY,24
+Ships,ORG,24
+3   8,CARDINAL,24
+English,NORP,23
+Merchants,ORG,23
+French,NORP,23
+twenty,CARDINAL,22
+Commonwealth,ORG,22
+Great Britain,GPE,22
+19,CARDINAL,22
+Nations,ORG,21
+late years,DATE,21
+Amsterdam,GPE,21
+Lands,GPE,20
+thirty three shillings,QUANTITY,20
+India,GPE,20
+Ducats,GPE,20
+25,CARDINAL,19
+Medium,PRODUCT,19
+Clothes,ORG,18
+Par,ORG,18
+Starlin,PERSON,18
+Commodity,ORG,18
+four pence,MONEY,18
+eight,CARDINAL,17
+fourth,ORDINAL,17
+33,CARDINAL,17
+Factoridge,GPE,16
+European,NORP,16
+Germany,GPE,16
+1  19,CARDINAL,16
+9   4,CARDINAL,16
+WHEAT,ORG,16
+1599,DATE,16
+R.,NORP,16
+40,CARDINAL,16
+Indies,ORG,16
+6   8,CARDINAL,16
+3  10,CARDINAL,16
+3  18,CARDINAL,16
+Law,PERSON,16
+Cutcheneale,ORG,15
+America,GPE,15
+Magistrates,ORG,15
+Province,GPE,15
+secondly,ORDINAL,14
+Cloves,ORG,14
+tenth,ORDINAL,14
+Majesty,PERSON,14
+Realm,NORP,14
+fifty,CARDINAL,14
+half,CARDINAL,14
+the East Indies,ORG,14
+Italy,GPE,14
+seven,CARDINAL,14
+60,CARDINAL,14
+Exchanges,NORP,14
+China,GPE,14
+fifteen,CARDINAL,13
+Antuerp,FAC,13
+thirty four shillings,QUANTITY,13
+Merchant,WORK_OF_ART,13
+Bullion,ORG,13
+Starlin,PRODUCT,13
+hundred,CARDINAL,13
+22,CARDINAL,13
+24,CARDINAL,13
+Magistrate,ORG,12
+Doller,PERSON,12
+2s:6d,CARDINAL,12
+Indian,NORP,12
+twelve,CARDINAL,12
+35,CARDINAL,12
+Price,ORG,12
+the Provincial Mints,ORG,12
+Thirdly,ORDINAL,12
+one half,CARDINAL,12
+28,CARDINAL,12
+d.,NORP,11
+Antuerp,ORG,11
+1463,DATE,11
+the last century,DATE,11
+the present century,DATE,11
+annual,DATE,11
+Island,GPE,11
+sixty-four,CARDINAL,11
+Staple,ORG,11
+Portugal,GPE,11
+Ship,PRODUCT,11
+Paradoxes,ORG,11
+Money,PRODUCT,11
+Traffic,ORG,11
+Clothier,ORG,11
+Merchants,PERSON,11
+1750,DATE,11
+Flemish,LANGUAGE,10
+Rents,PERSON,10
+Poland,GPE,10
+thirty five,CARDINAL,10
+300,CARDINAL,10
+Positive Exchange,ORG,10
+1675,DATE,10
+Bankers,ORG,10
+Nation,ORG,10
+1621,DATE,10
+Chapmen,GPE,10
+6d,CARDINAL,10
+King Henry,PERSON,10
+Buyers,NORP,10
+each year,DATE,10
+weekly,DATE,10
+the year,DATE,10
+Nutmegs,ORG,10
+those days,DATE,10
+48s,DATE,10
+1595,DATE,10
+1558,DATE,9
+1649,DATE,9
+50,CARDINAL,9
+32,CARDINAL,9
+1202,DATE,9
+1763,DATE,9
+1751,DATE,9
+daily,DATE,9
+Ducats,PERSON,9
+Bodine,PERSON,9
+1688,DATE,9
+1270,DATE,9
+1636,DATE,9
+1648,DATE,9
+Crown,ORG,9
+Trades,ORG,9
+Rome,GPE,9
+1554,DATE,9
+Tower,ORG,9
+Bill,PERSON,9
+Clothier,NORP,9
+falleth,PERSON,9
+Clothes,PERSON,9
+Secondly,ORDINAL,9
+1425,DATE,9
+Factoridge,LOC,8
+"3   2   2
+  ",QUANTITY,8
+1361,DATE,8
+1435,DATE,8
+1440,DATE,8
+1713,DATE,8
+1712,DATE,8
+1711,DATE,8
+1747,DATE,8
+1743,DATE,8
+1704,DATE,8
+1701,DATE,8
+1720,DATE,8
+the Positive Exchange,ORG,8
+Prohibiting,GPE,8
+1617,DATE,8
+1618,DATE,8
+64,CARDINAL,8
+129,CARDINAL,8
+1729,DATE,8
+2  11,CARDINAL,8
+1624,DATE,8
+6¾,CARDINAL,8
+1620,DATE,8
+1619,DATE,8
+2½,CARDINAL,8
+4894,DATE,8
+375,CARDINAL,8
+Maluedeis,PERSON,8
+Frankford,ORG,8
+153,CARDINAL,8
+twenty pence,MONEY,8
+1721,DATE,8
+1723,DATE,8
+1694,DATE,8
+1696,DATE,8
+3  11,CARDINAL,8
+MICHAELMAS,ORG,8
+5½,CARDINAL,8
+1625,DATE,8
+0         4  12,PRODUCT,8
+1596,DATE,8
+1594,DATE,8
+0         2,PRODUCT,8
+1561,DATE,8
+0  10,QUANTITY,8
+1613,DATE,8
+1560,DATE,8
+1559,DATE,8
+17   8½            0,TIME,8
+1556,DATE,8
+1555,DATE,8
+1553,DATE,8
+1551,DATE,8
+1447,DATE,8
+1445,DATE,8
+4   8,CARDINAL,8
+1499,DATE,8
+1444,DATE,8
+8   9   0,TIME,8
+1434,DATE,8
+1401,DATE,8
+1423,DATE,8
+0  16,CARDINAL,8
+1416,DATE,8
+"9   4
+  1379      0   4",TIME,8
+1451,DATE,8
+1369,DATE,8
+0  15,CARDINAL,8
+1715,DATE,8
+1363,DATE,8
+1223,DATE,8
+Russia,GPE,8
+1246,DATE,8
+one year    each year,DATE,8
+Year    Prices/Quarter  Average,WORK_OF_ART,8
+1595 TO 1764,DATE,8
+1459,DATE,8
+1464,DATE,8
+1491,DATE,8
+1495,DATE,8
+1608,DATE,8
+"9   4
+  1603      1  15",TIME,8
+1604,DATE,8
+1605,DATE,8
+1349,DATE,8
+1339,DATE,8
+23   4  11¼,QUANTITY,8
+1359,DATE,8
+"9   4
+  1289      0  12",TIME,8
+1316,DATE,8
+1   8,CARDINAL,8
+1288,DATE,8
+0         1  19,PRODUCT,8
+1317,DATE,8
+1390,DATE,8
+"9   4
+  1387      0",TIME,8
+"6   8
+  1336      0   2   0                               0   6   0
+  1338      0   3   4",QUANTITY,8
+1615,DATE,8
+1449,DATE,8
+1453,DATE,8
+1633,DATE,8
+1631,DATE,8
+1630,DATE,8
+1627,DATE,8
+1660,DATE,8
+1662,DATE,8
+3   6,CARDINAL,8
+1652,DATE,8
+1634,DATE,8
+1638,DATE,8
+1637,DATE,8
+16)40,CARDINAL,8
+1   4,CARDINAL,8
+3  12,CARDINAL,8
+1258,DATE,8
+"6
+  ",QUANTITY,8
+1205,DATE,8
+1776,DATE,8
+0   3   4,CARDINAL,8
+1287,DATE,8
+1315,DATE,8
+1290,DATE,8
+0  10   8,CARDINAL,8
+10   1½            1  10   ,TIME,8
+1¼,DATE,8
+"35   9   3
+                                          Average   2  19",TIME,8
+1247,DATE,8
+1734,DATE,8
+1733,DATE,8
+4s,CARDINAL,8
+eight pence,MONEY,8
+American,NORP,8
+1646,DATE,8
+1639,DATE,8
+1677,DATE,8
+1674,DATE,8
+1673,DATE,8
+1672,DATE,8
+"9
+  1764      2",TIME,8
+1  10,CARDINAL,8
+1759,DATE,8
+1  18,CARDINAL,8
+6                     1  12,QUANTITY,8
+1741,DATE,8
+6                     1  18,QUANTITY,8
+1740,DATE,8
+1647,DATE,8
+1651,DATE,8
+1684,DATE,8
+1683,DATE,8
+1682,DATE,8
+1680,DATE,8
+1667,DATE,8
+1671,DATE,8
+1664,DATE,8
+1666,DATE,8
+1690,DATE,8
+1685,DATE,8
+1692,DATE,8
+1691,DATE,8
+100,CARDINAL,8
+Danes,ORG,8
+Commerce,ORG,8
+late Years,DATE,8
+the end of the season,DATE,7
+Crown,PRODUCT,7
+5s,CARDINAL,7
+36,CARDINAL,7
+knoweth,PERSON,7
+48s,CARDINAL,7
+Lixborne,GPE,7
+Malynes,LOC,7
+Henry,PERSON,7
+Bullion,PERSON,7
+Plate,ORG,7
+Antuerpe,NORP,7
+Silver,GPE,7
+the Public Measure,ORG,7
+Lituania,GPE,7
+Prussia,GPE,7
+24s,CARDINAL,7
+3s,CARDINAL,7
+500,CARDINAL,7
+Assays,DATE,7
+38,CARDINAL,7
+a year,DATE,7
+Mace,PERSON,7
+Money,ORG,7
+Zealand,GPE,7
+Coin,ORG,7
+maketh,PERSON,7
+Scotch,NORP,7
+one year,DATE,7
+many years,DATE,7
+Merchant,PERSON,7
+Royal 2 ½,ORG,6
+1000,CARDINAL,6
+ten pence,MONEY,6
+15s,DATE,6
+44s,DATE,6
+22s,CARDINAL,6
+45,CARDINAL,6
+twenty and four hours,TIME,6
+Rate,PERSON,6
+Baker,PERSON,6
+Silk,LOC,6
+telleth him,PERSON,6
+Wines,GPE,6
+37,CARDINAL,6
+107,CARDINAL,6
+Money,WORK_OF_ART,6
+Peru,GPE,6
+Gelder,PRODUCT,6
+the Canker of England's,ORG,6
+Golden Royal,FAC,6
+Lion Doller,PERSON,6
+Chapters,LANGUAGE,6
+Commission,ORG,6
+lieu thereof,PERSON,6
+Flabs of Groninghen 4,ORG,6
+24 guilders,MONEY,6
+Debts,PERSON,6
+Hires,ORG,6
+Merchandises,NORP,6
+Villages,ORG,6
+Towns,GPE,6
+the West Indies,GPE,6
+Mariners,ORG,6
+two to three,CARDINAL,6
+Paris,GPE,6
+Clothiers,ORG,6
+Company,ORG,6
+Commodities,NORP,6
+Christendom,ORG,6
+Neighbours,ORG,6
+Bills of Exchanges,ORG,6
+Sea,LOC,6
+Magistrates,NORP,6
+more than the,DATE,6
+three Lion Dollars,MONEY,6
+Duyts,PERSON,6
+one penny,MONEY,6
+the Council of State,ORG,6
+"Imposts, Demesnes",ORG,6
+"the
+      quarter",DATE,6
+Hollandts Stiver,FAC,6
+Town,GPE,6
+six guilders,MONEY,6
+Estates,GPE,5
+Ten,CARDINAL,5
+fifty two,CARDINAL,5
+20 or 25,CARDINAL,5
+Monsieur Bodine,PERSON,5
+thirty nine,QUANTITY,5
+Publica Mensura,PERSON,5
+Velvets,GPE,5
+Seller,PERSON,5
+Easterlings,PERSON,5
+eleven,CARDINAL,5
+shew hereafter,PERSON,5
+about three,CARDINAL,5
+Tobacco,ORG,5
+Natives,NORP,5
+annually,DATE,5
+Albeit,GPE,5
+the East-Indies,ORG,5
+twenty shillings,MONEY,5
+Commodities,PRODUCT,5
+Wools,PERSON,5
+Staplers,NORP,5
+ten thousand,CARDINAL,5
+Treatise,ORG,5
+State,ORG,5
+Barbary,PERSON,5
+one month,DATE,5
+Misselden,ORG,5
+Errors,ORG,5
+Carrat,NORP,5
+East India,LOC,5
+East,LOC,5
+Persian,NORP,5
+thirty eight shillings,QUANTITY,5
+Hammers,FAC,5
+thirty years,DATE,5
+Landlords,NORP,5
+Barter,PERSON,5
+Manufacture,ORG,5
+West Indies Fleet,ORG,5
+Posito,PERSON,5
+Partida,PERSON,5
+Sugar,GPE,5
+Commodities,WORK_OF_ART,5
+Six,CARDINAL,5
+twelve pence,MONEY,5
+Spaniards,NORP,5
+Misteca,PERSON,5
+Fleetwood,ORG,5
+One,CARDINAL,5
+Currant Exchange,ORG,5
+Nobility,ORG,5
+Doller,ORG,5
+two months,DATE,5
+twenty shillings,QUANTITY,5
+British,NORP,5
+Takers,ORG,5
+a penny,MONEY,5
+a half,CARDINAL,4
+42,CARDINAL,4
+30,CARDINAL,4
+twenty-two guilders,MONEY,4
+five-and-twenty,QUANTITY,4
+Newcastle,GPE,4
+Parliament,ORG,4
+Earth,LOC,4
+Planting,GPE,4
+about twenty-three,CARDINAL,4
+twenty-three guilders,MONEY,4
+Nobleman,PERSON,4
+Usury,ORG,4
+39,CARDINAL,4
+Articles,PERSON,4
+21,CARDINAL,4
+23,CARDINAL,4
+Banks,PERSON,4
+Flemish,NORP,4
+22d,CARDINAL,4
+Merchants Our Commodities,WORK_OF_ART,4
+the West Indies,ORG,4
+the last day,DATE,4
+Florence,ORG,4
+about 40,CARDINAL,4
+50 years,DATE,4
+Monopoly,ORG,4
+3,DATE,4
+4,DATE,4
+fifth,ORDINAL,4
+sixteen,CARDINAL,4
+the late years,DATE,4
+Romans,NORP,4
+Sicilian,NORP,4
+Indostan,GPE,4
+1741 to 1750,DATE,4
+this century,DATE,4
+Traffic,NORP,4
+King,PERSON,4
+2:10s,MONEY,4
+last years,DATE,4
+every Monday of the week,DATE,4
+Monopolies,PERSON,4
+"Commodities, & the",ORG,4
+40 pence,MONEY,4
+sixty years,DATE,4
+Monsieur Malestroit,PERSON,4
+Soul,PERSON,4
+Heart,ORG,4
+"thirty
+      years",DATE,4
+Downs,ORG,4
+the Low-Exchange,ORG,4
+forty two,CARDINAL,4
+fifty one,CARDINAL,4
+almost eighteen,CARDINAL,4
+twenty two,CARDINAL,4
+38 2 4,DATE,4
+Banks and Bankers,ORG,4
+Banks,GPE,4
+Crusats of Lixborne,PERSON,4
+11990,DATE,4
+98 pence,MONEY,4
+Crusat,PERSON,4
+4895 18 4,DATE,4
+13260,DATE,4
+Florins of Frankford,WORK_OF_ART,4
+81 pence,MONEY,4
+11132,DATE,4
+twelve shillings,MONEY,4
+Madrill to Lixborne,ORG,4
+11010,CARDINAL,4
+440,CARDINAL,4
+4844,CARDINAL,4
+U 620 Vlas,EVENT,4
+Ducats 12111 Duc,ORG,4
+Strangers,NORP,4
+Centre,GPE,4
+Statutes,PERSON,4
+8,DATE,4
+sixth,ORDINAL,4
+22 to,CARDINAL,4
+Navigation,PERSON,4
+Stranger,FAC,4
+4thly,CARDINAL,4
+Custom,PERSON,4
+Easterlings,ORG,4
+2dly,ORDINAL,4
+Buyer,PERSON,4
+three per cent,MONEY,4
+Credit,ORG,4
+between 16,DATE,4
+the Realm of England,GPE,4
+the Naturall Exchange,ORG,4
+bee,ORG,4
+15. 20,DATE,4
+Tallow,GPE,4
+183500,DATE,4
+Ireland,GPE,4
+Flo,PERSON,4
+106 pence,MONEY,4
+Bank,ORG,4
+four months,DATE,4
+Duc,PERSON,4
+130,CARDINAL,4
+Florins,PERSON,4
+65,CARDINAL,4
+13130 Dollars,MONEY,4
+sixty five,CARDINAL,4
+Creutzers,ORG,4
+2875,CARDINAL,4
+2860,DATE,4
+34,DATE,4
+15 10,CARDINAL,4
+113 ½ pence,MONEY,4
+114 pence,MONEY,4
+Antithesis,PERSON,4
+115 ½ pence,MONEY,4
+115 pence,MONEY,4
+4791 13,DATE,4
+Hundred,CARDINAL,4
+Old England,LOC,4
+Communibus,ORG,4
+Rials,WORK_OF_ART,4
+Shillings,PERSON,4
+Commodity,FAC,4
+Scotch Prizes,ORG,4
+a few Years,DATE,4
+Voyage,ORG,4
+1400,CARDINAL,4
+Edward III,PERSON,4
+four ounces,QUANTITY,4
+"the beginning of the sixteenth
+      century",DATE,4
+Edward III.,PERSON,4
+ten years,DATE,4
+Proverb,NORP,4
+1764,DATE,4
+Prince Henry,PERSON,4
+a-week,DATE,4
+4,MONEY,4
+William III.,PERSON,4
+4791,DATE,4
+Summer,DATE,4
+Ten thousand,CARDINAL,4
+fifty five,CARDINAL,4
+Corints,GPE,4
+Levant Wines,ORG,4
+the year 1611,DATE,4
+the Royal Exchange,ORG,4
+nine pence,MONEY,4
+Germans,NORP,4
+Britain,GPE,4
+the Planet Saturn,LOC,4
+Chapter,LAW,4
+Pag,ORG,4
+twenty-three guilders sixteen,QUANTITY,4
+3s:6d,CARDINAL,4
+the Philip Doller,ORG,4
+Venetians,NORP,3
+these fifty years,DATE,3
+ten shillings ten pence,MONEY,3
+20000,CARDINAL,3
+one quarter,DATE,3
+Exchanges,LOC,3
+Taker,ORG,3
+Persians,NORP,3
+6,DATE,3
+Edinburgh,GPE,3
+Premio,PERSON,3
+four and one half,DATE,3
+512,CARDINAL,3
+837 10 0 500,PRODUCT,3
+841,CARDINAL,3
+Brokers 21 4 8,LAW,3
+16 8,DATE,3
+63,CARDINAL,3
+32s,CARDINAL,3
+twelve to one,CARDINAL,3
+three hundred years,DATE,3
+thirty four,QUANTITY,3
+525,CARDINAL,3
+870,CARDINAL,3
+8 300,CARDINAL,3
+517,CARDINAL,3
+346 13 4 1000,DATE,3
+2300,CARDINAL,3
+Flem,ORG,3
+4010,DATE,3
+Banks of Exchanges,ORG,3
+Coins,PERSON,3
+party & party,ORG,3
+5 pound,QUANTITY,3
+Bizanson,PERSON,3
+three months,DATE,3
+Register,ORG,3
+Parents,NORP,3
+Flemiſh,LOC,3
+400000,DATE,3
+Stapler,FAC,3
+Statute Staple,ORG,3
+these hundreth years,DATE,3
+Turf,PERSON,3
+the King's Seas,ORG,3
+Civilians,NORP,3
+eighteen pence,MONEY,3
+Societies of the Merchant's Adventurers,WORK_OF_ART,3
+Eastland Merchants,ORG,3
+Farms,PERSON,3
+Staple Trade,ORG,3
+Mercers of London,ORG,3
+1 Ten,CARDINAL,3
+Emperors,ORG,3
+six months,DATE,3
+every year,DATE,3
+one hundreth years,DATE,3
+Sweden,GPE,3
+Preemption of Tin,ORG,3
+Persia,GPE,3
+Velvet,PERSON,3
+Preemption,WORK_OF_ART,3
+Peate,ORG,3
+Troy,GPE,3
+Bankerers,ORG,3
+forty,CARDINAL,3
+Silver and Gold Coins,WORK_OF_ART,3
+Middleborough,GPE,3
+Lubish,NORP,3
+Rouen,PERSON,3
+Harbours,WORK_OF_ART,3
+Wines,PRODUCT,3
+Russian,NORP,3
+Doller,PRODUCT,3
+maketh the,PERSON,3
+Banker,ORG,3
+quae,GPE,3
+29,CARDINAL,3
+draweth,PERSON,3
+26,CARDINAL,3
+deliverer,ORG,3
+seventy years,DATE,3
+two ounces,QUANTITY,3
+a Broker of Exchanges,PRODUCT,3
+one thousand ducats,QUANTITY,3
+fifty and six pence,MONEY,3
+Antuerpe,PERSON,3
+C.D. the Merchant,WORK_OF_ART,3
+thousand,CARDINAL,3
+Commodities of Trade,ORG,3
+Officers,WORK_OF_ART,3
+dealeth,NORP,3
+Shipping,PERSON,3
+one hundred,CARDINAL,3
+Asper,ORG,3
+Mints,ORG,3
+netherlands Golden Riders,ORG,3
+every three months,DATE,3
+the days,DATE,3
+41,CARDINAL,3
+the last of September,DATE,3
+43,CARDINAL,3
+44,CARDINAL,3
+Admiralty,PRODUCT,3
+Proclamation,WORK_OF_ART,3
+Article,LAW,3
+Towns,ORG,3
+Gold and Silver Bullion,ORG,3
+the Generals of Mints,ORG,3
+these united Provinces,ORG,3
+Magistrates,LOC,3
+three guilders,MONEY,3
+Our said Proclamation,ORG,3
+the Council of the Admiralty,ORG,3
+Lords,ORG,3
+fourteen days,DATE,3
+Committees,ORG,3
+14 days,DATE,3
+the Estates General,ORG,3
+ten ounces,QUANTITY,3
+monthly,DATE,3
+Shahes,PERSON,3
+Cardinal Wolsey,PERSON,3
+6 pence,MONEY,3
+the King's Custom,ORG,3
+seventeen,CARDINAL,3
+Persons,PERSON,3
+Markets,ORG,3
+Confession,ORG,3
+the Complaint of our Clothiers,ORG,3
+Foreign Dealers,ORG,3
+the Societies of Merchants,ORG,3
+Foreign-Merchants,ORG,3
+Three or Four years,DATE,3
+the Baseness of this Manufacture,ORG,3
+Portugal Sugars,ORG,3
+the Exportation of Woollen Manufactures,ORG,3
+the Trade of Turkey,GPE,3
+Indians,NORP,3
+Turkey Silk,ORG,3
+the Exportation of our Woollen Manufacture,WORK_OF_ART,3
+Silk,ORG,3
+several years,DATE,3
+Three,CARDINAL,3
+Ulloa,PERSON,3
+about 1570,DATE,3
+the 25th,DATE,3
+Westmoreland,GPE,3
+Shropshire,GPE,3
+Lionnois,PERSON,3
+nine,CARDINAL,3
+about eight,CARDINAL,3
+the 1st,DATE,3
+Elizabeth,PERSON,3
+1436,DATE,3
+thirteen,CARDINAL,3
+one-third,CARDINAL,3
+Mary,PERSON,3
+51st,ORDINAL,3
+less than one-third,CARDINAL,3
+Sixteen,CARDINAL,3
+Farmers,ORG,3
+Silver,PERSON,3
+Monies,ORG,3
+Compass,ORG,3
+ninth,ORDINAL,3
+Eton,PERSON,3
+Natural,ORG,3
+Fishing,NORP,3
+the Progress of Improvement,ORG,3
+Fourthly,ORDINAL,3
+the Merchant Stranger,ORG,3
+Spirit,ORG,3
+King's,ORG,3
+Time,ORG,3
+Trades,PRODUCT,3
+Royal,ORG,3
+Spherical,ORG,3
+Thirty years,DATE,3
+Gentleman,ORG,3
+Worthy,PERSON,3
+some weeks,DATE,3
+other weeks,DATE,3
+one week,DATE,3
+52 weeks,DATE,3
+these 12 years,DATE,3
+one third,CARDINAL,3
+four pounds,QUANTITY,3
+100 l.,QUANTITY,3
+Noble,PERSON,3
+Irish,NORP,3
+two pence,MONEY,3
+16s,DATE,3
+about 3s,CARDINAL,3
+about 6s,CARDINAL,3
+more than fifty years ago,DATE,3
+the season,DATE,3
+3 d. 4 d.,QUANTITY,3
+Angel,PERSON,3
+Florin,GPE,3
+one-fifth,CARDINAL,3
+the eighteenth year,DATE,2
+thirty and five,CARDINAL,2
+thirty seven shillings,QUANTITY,2
+ten pro cent,MONEY,2
+almost thirty,CARDINAL,2
+three quarters,DATE,2
+Eastland,GPE,2
+Interest,ORG,2
+Par of Exchange,ORG,2
+Embroiderer,PERSON,2
+made many hundreds,CARDINAL,2
+four penny,MONEY,2
+20.,MONEY,2
+Canvas,NORP,2
+a quarter,CARDINAL,2
+Port,GPE,2
+Usury,GPE,2
+twelve,DATE,2
+King's Customs,ORG,2
+Usurers,ORG,2
+Porte,ORG,2
+Ocean,ORG,2
+Proclamation,GPE,2
+Publica mensura,PERSON,2
+Hamborow,LOC,2
+Embden,GPE,2
+Sums,PERSON,2
+Callings,ORG,2
+The East-India Company,ORG,2
+Vent,GPE,2
+the Sugar-Bakers,ORG,2
+Barbadoes Sugars,ORG,2
+Radix Cambij,PERSON,2
+Second,ORDINAL,2
+bringeth,PERSON,2
+causeth us,ORG,2
+Spanish Tobacco,ORG,2
+Freight,LAW,2
+Accidental Exchanges,NORP,2
+Accidental,NORP,2
+Rich,PERSON,2
+6 shillings 8 pence,MONEY,2
+seven shillings,MONEY,2
+Sugar-Bakers,ORG,2
+Younger,ORG,2
+The Accidental Reciprocal Exchanges,ORG,2
+Fairs,GPE,2
+Fermer,ORG,2
+Rechange,GPE,2
+9 shillings 7 pence,MONEY,2
+36000 00 00 150000,DATE,2
+Ocean,LOC,2
+the season of the year,DATE,2
+Noblemen &,ORG,2
+Malestroit,NORP,2
+one to two and a half,CARDINAL,2
+one to 5,CARDINAL,2
+Malestroit,PERSON,2
+7.s,DATE,2
+52500,DATE,2
+States,GPE,2
+Currans,NORP,2
+Monopoly,NORP,2
+00 00.,DATE,2
+Question,PERSON,2
+Raising,PERSON,2
+Plate,GPE,2
+00,DATE,2
+Exchanger,PERSON,2
+two hours,TIME,2
+a certain day,DATE,2
+Knights and Gentry,ORG,2
+3.s,CARDINAL,2
+6.d,CARDINAL,2
+8.s,CARDINAL,2
+16000 00 00.,DATE,2
+La,GPE,2
+South-west,GPE,2
+Winter two,DATE,2
+the Turkish Pirates,FAC,2
+9.s,DATE,2
+3 pound,QUANTITY,2
+9000,CARDINAL,2
+00 00. 160000,DATE,2
+the Nobility of England,ORG,2
+Sattin-Doublet,ORG,2
+Grocer,GPE,2
+loseth unawares,PERSON,2
+Howbeit,GPE,2
+North-east,LOC,2
+driveth,PERSON,2
+Western,NORP,2
+Northwest,ORG,2
+Lions,ORG,2
+Fair,ORG,2
+Engrossers,ORG,2
+600,CARDINAL,2
+Politicians,NORP,2
+Party,ORG,2
+the Master of the Ship and Mariners,ORG,2
+Barratrie,PERSON,2
+Map,PERSON,2
+The Manna of France,WORK_OF_ART,2
+450 thousand pound,QUANTITY,2
+that day,DATE,2
+"house, & finding",ORG,2
+Constable,ORG,2
+Salt-Petre,PERSON,2
+Custom,ORG,2
+Exchequer,ORG,2
+Sheyre,LOC,2
+Gold or Bullion,ORG,2
+27,CARDINAL,2
+Bullion,GPE,2
+Non-vſe,ORG,2
+Aristotle,GPE,2
+Seneca,PERSON,2
+Cicero,ORG,2
+the Law Merchant,LAW,2
+the very day,DATE,2
+Searchers,NORP,2
+Scrivener,ORG,2
+Linen,PERSON,2
+thirty three,CARDINAL,2
+Notary,GPE,2
+hundreth pounds,PERSON,2
+Netherlands,GPE,2
+thirty four,DATE,2
+thousand pounds,MONEY,2
+London Merchant,ORG,2
+Sea-Coals,ORG,2
+Plenty,ORG,2
+"the Seas, Th'",ORG,2
+Owner,ORG,2
+the Owner of the Ship,ORG,2
+seventeen or eighteen Years,DATE,2
+Danes,NORP,2
+Latter,ORG,2
+Nicholas,PERSON,2
+five thousand,CARDINAL,2
+Constituant,PERSON,2
+Easterlins,PERSON,2
+hindereth,CARDINAL,2
+Bankrupt,ORG,2
+the Bankrupt for Wares,ORG,2
+hundreth,PERSON,2
+Brankrupt,GPE,2
+Coins,GPE,2
+31,CARDINAL,2
+Fines,NORP,2
+more months,DATE,2
+Fustians,NORP,2
+Beer and Ale,ORG,2
+one Penny,MONEY,2
+Quartfield,ORG,2
+about £48,MONEY,2
+Mum,PERSON,2
+john,PERSON,2
+Monopolies,GPE,2
+Passive,ORG,2
+Exports,PRODUCT,2
+Trade to England,ORG,2
+about 3,CARDINAL,2
+400000 l.,QUANTITY,2
+Annum,ORG,2
+Guiny,ORG,2
+Profit,ORG,2
+English Ship,WORK_OF_ART,2
+this Trade for England,ORG,2
+Stock of Flemish Prizes,ORG,2
+Immunities and Privileges,ORG,2
+Strength,ORG,2
+New-England,EVENT,2
+Newfoundland,GPE,2
+Lazy,ORG,2
+Colonies,GPE,2
+Fleets,ORG,2
+Ships of War,ORG,2
+Propriety,ORG,2
+Fishing Harbours,ORG,2
+about Thirty thousand,CARDINAL,2
+Chests,NORP,2
+Barbadoes,GPE,2
+eight Shillings six Pence,MONEY,2
+Coals,ORG,2
+twenty four,CARDINAL,2
+the Case of England,WORK_OF_ART,2
+Wines,LOC,2
+Islanders,NORP,2
+English Commodities,NORP,2
+Muscovado,GPE,2
+three Pounds,MONEY,2
+Brazeil-Fleets,ORG,2
+One hundred,CARDINAL,2
+One hundred and twenty thousand,CARDINAL,2
+forty half,CARDINAL,2
+Lawns,ORG,2
+Tradesman,PERSON,2
+Bills of Exchange,ORG,2
+Statute,NORP,2
+Bread,PERSON,2
+Law on Butchers,ORG,2
+Butcher,PERSON,2
+the firſt Exchange,ORG,2
+Trader,ORG,2
+War,EVENT,2
+Fishermen,LOC,2
+Oppression,GPE,2
+the Fruits of the Earth,ORG,2
+Neighbours,PERSON,2
+Money,PERSON,2
+Penny,ORG,2
+Growers and Clothiers,ORG,2
+Profession,ORG,2
+Elder Servants,ORG,2
+Material,ORG,2
+"Breakers, Combers,",ORG,2
+Fuller,ORG,2
+"Shearmen, Clothiers, Dyers",ORG,2
+Children,PRODUCT,2
+Saint Andr●,FAC,2
+the year 1575,DATE,2
+twelve penny,MONEY,2
+five per cent,MONEY,2
+two ounces 17,QUANTITY,2
+two per cent,MONEY,2
+only one,CARDINAL,2
+Essential to Trade as Victuals,ORG,2
+the Public Interest,ORG,2
+Cases,WORK_OF_ART,2
+Considerations,ORG,2
+Justice,ORG,2
+Woollen Manufacture,PERSON,2
+Foreigners,ORG,2
+Marks,ORG,2
+Ware,ORG,2
+Landlord,PERSON,2
+one per cent,MONEY,2
+two third,CARDINAL,2
+Augustus,PERSON,2
+House,ORG,2
+the year 1674,DATE,2
+Riches,ORG,2
+Shiping,ORG,2
+Immunities,GPE,2
+a few years past,DATE,2
+the The State,ORG,2
+three pence,MONEY,2
+the Starlin Standard,ORG,2
+Egypt,GPE,2
+jerusalem,GPE,2
+Rider,ORG,2
+non-Latin,NORP,2
+Patentees,ORG,2
+Assignes,ORG,2
+Monopolian,NORP,2
+labor,ORG,2
+New York,GPE,2
+North America,LOC,2
+these ten years past,DATE,2
+Five,CARDINAL,2
+Iacobus,GPE,2
+the year before,DATE,2
+Intercourse,ORG,2
+halfpenny,PERSON,2
+Kingdome,GPE,2
+the Natiue Commodities,ORG,2
+Coine,GPE,2
+halfpenny sterling,PERSON,2
+Roman,NORP,2
+Latium,GPE,2
+Shetland,LOC,2
+Buenos Ayres,ORG,2
+Lands,NORP,2
+a-day,DATE,2
+Tenpence,ORG,2
+a dear year,DATE,2
+a thousand,CARDINAL,2
+the West-Indies,ORG,2
+150,CARDINAL,2
+Virginia,GPE,2
+twenty-five,CARDINAL,2
+eight-pence,MONEY,2
+4½d,CARDINAL,2
+"Money, Bullion",ORG,2
+Together,PERSON,2
+the 16th year,DATE,2
+Deliuerer,PERSON,2
+10 per cent,MONEY,2
+Bills of Exchanges for,ORG,2
+Japan,GPE,2
+about 80.,DATE,2
+the Netherlands,GPE,2
+Servant,ORG,2
+the sixteenth century,DATE,2
+Macedon,GPE,2
+Transfer,PERSON,2
+Standard,ORG,2
+the Burgondian Doller,FAC,2
+46:14:6,MONEY,2
+about thirty,CARDINAL,2
+Treasury,ORG,2
+6 per cent,MONEY,2
+the middle of the fourteenth,DATE,2
+"about
+      one half",CARDINAL,2
+less than four ounces,QUANTITY,2
+six ounces,QUANTITY,2
+Dupré de St Maur,PERSON,2
+Author,GPE,2
+Genoa,PERSON,2
+Eton,ORG,2
+the Regiam Majestatem,PERSON,2
+about half,CARDINAL,2
+Ruddiman,PERSON,2
+Anderson’s Diplomata Scotiae,ORG,2
+twelve years,DATE,2
+Henry III.,PERSON,2
+about eighteen,CARDINAL,2
+Tumbrel,ORG,2
+Pillory,ORG,2
+twelve ounces,QUANTITY,2
+20 Years Purchase,DATE,2
+forty pence,MONEY,2
+forty five pence,MONEY,2
+The Statutes of Bankrupt,WORK_OF_ART,2
+five and six,DATE,2
+47:14s,MONEY,2
+Egyptian,NORP,2
+Goldsmiths and Merchants,ORG,2
+about £ 1:12:8,MONEY,2
+about six ounces,QUANTITY,2
+about seven ounces,QUANTITY,2
+two-thirds,CARDINAL,2
+Byard,PERSON,2
+about one,CARDINAL,2
+1687,DATE,2
+3:5s,MONEY,2
+sixty four last years of the last century,DATE,2
+1695,DATE,2
+Lowndes’s Essay,ORG,2
+the Silver Coin,ORG,2
+68,DATE,2
+fifteen pence,MONEY,2
+sixty-four years,DATE,2
+those two years,DATE,2
+the sixteen years preceding 1637,DATE,2
+Artificial,ORG,2
+Dover,GPE,2
+Stones,ORG,2
+Ninety years,DATE,2
+less from year,DATE,2
+nearly 6s.3d,CARDINAL,2
+those years,DATE,2
+these last eight,DATE,2
+"ten
+      years",DATE,2
+only £ 1:13:9,MONEY,2
+1:5:2,MONEY,2
+eight-and-,TIME,2
+ten to seven,CARDINAL,2
+twenty-eight,CARDINAL,2
+Great,GPE,2
+these few years,DATE,2
+c. 17,DATE,2
+eight thousand,CARDINAL,2
+about sixty,CARDINAL,2
+about one third,CARDINAL,2
+about one-third,CARDINAL,2
+Different Effects of the Progress of Improvement,WORK_OF_ART,2
+Produce,PERSON,2
+Eight,CARDINAL,2
+one thousand pounds,QUANTITY,2
+quarter,CARDINAL,2
+fourteen-pence,MONEY,2
+Spirits,LOC,2
+Sinews,ORG,2
+Basis of true valuation,ORG,2
+melancholic,NORP,2
+"the
+      present century",DATE,2
+Birmingham,GPE,2
+risen,PERSON,2
+the end of the fifteenth century,DATE,2
+fed,ORG,2
+1703,DATE,2
+Equin,ORG,2
+five hundreth pounds,QUANTITY,2
+160 thousand,CARDINAL,2
+150 thousand,CARDINAL,2
+128 thousand pounds,MONEY,2
+55500,DATE,2
+21666,DATE,2
+4.,CARDINAL,2
+108333,DATE,2
+Moon,PERSON,2
+Overbalancing of Commodities,WORK_OF_ART,2
+Houses of Parliament,ORG,2
+40 thousand,CARDINAL,2
+20 thousand,CARDINAL,2
+Mace,ORG,2
+twelve Years,DATE,2
+Times,ORG,2
+Traffic and Commerce,ORG,2
+Currant,PERSON,2
+less than one quarter,DATE,2
+400 thousand,CARDINAL,2
+the Cloth Trade,ORG,2
+52,DATE,2
+Mace 7 s,LAW,2
+Nutmegs 3 s,ORG,2
+21166,CARDINAL,2
+Broker,PERSON,2
+doth,PERSON,2
+Spice,GPE,2
+Native Commodities,NORP,2
+Moneys and Exchange,ORG,2
+Kings,PERSON,2
+Mechoacan,NORP,2
+Indian Roots,PERSON,2
+Dropsy,ORG,2
+Prohibitions,PERSON,2
+Surfeit,ORG,2
+Blood in the Body,WORK_OF_ART,2
+Free Trade,ORG,2
+1/9,CARDINAL,2
+Lex Mercatoria,PERSON,2
+Luce Meridiana Clarius,PERSON,2
+needeth,PERSON,2
+Pernicious Asguments,PERSON,2
+FIrst,ORDINAL,2
+Vital,NORP,2
+Bullion and Dollars,ORG,2
+Young English Merchants,WORK_OF_ART,2
+Commodities,GPE,2
+Accuseth,PERSON,2
+the Merchant's Adventurers,WORK_OF_ART,2
+Suggestion,ORG,2
+the burden & can,ORG,2
+110,CARDINAL,2
+the Clothier & the Wool,ORG,2
+Staplers,GPE,2
+Recall Trade of Merchants,ORG,2
+Circulus,NORP,2
+113,CARDINAL,2
+Triumphant Chariot,ORG,2
+Coach,ORG,2
+Caligula,GPE,2
+Suetornius & Di●n.,ORG,2
+Army,ORG,2
+The Merchant's Valuation,WORK_OF_ART,2
+Merchant,ORG,2
+English Merchants,ORG,2
+the Mark of Gold,FAC,2
+51,CARDINAL,2
+Assertion,ORG,2
+Relations and Acquaintance,ORG,2
+Wooll,PERSON,2
+Gentleman,PERSON,2
+Territory,ORG,2
+Capacities,WORK_OF_ART,2
+Barters,PERSON,2
+Memories,ORG,2
+Two,CARDINAL,2
+00 00 50000,DATE,2
+Londoners,LOC,2
+Amsterdamers,PERSON,2
+Soldiers,ORG,2
+Calculations,ORG,2
+Account,ORG,2
+the Golden Rule,FAC,2
+the year 1600,DATE,2
+Fathers,ORG,2
+the years,DATE,2
+fifty Years past,DATE,2
+Subsistence,ORG,2
+one-fourth,CARDINAL,2
+Sugars,PERSON,2
+about a hundred,CARDINAL,2
+more than two thousand,CARDINAL,2
+Doors,ORG,2
+the English Merchants,ORG,2
+English Manufactures,WORK_OF_ART,2
+Smoke,NORP,2
+the East-India Company,LOC,2
+three-fourths,CARDINAL,2
+only 6d,CARDINAL,2
+s. 9d,PERSON,2
+8s,CARDINAL,2
+the 15th of the same prince,DATE,2
+William,PERSON,2
+11th,ORDINAL,2
+c. 20,DATE,2
+Positive,LOC,2
+40s,DATE,2
+c. 13,DATE,2
+53s:4d,CARDINAL,2
+11.,QUANTITY,2
+12 ounces,QUANTITY,2
+Philip,PERSON,2
+Freight,ORG,2
+the next season,DATE,2
+about 28s,DATE,2
+Imperial Royal,ORG,2
+six per cent,MONEY,2
+Waight,PERSON,2
+English & foreign coin all,ORG,2
+the Edward Crown,PERSON,2
+Groats,GPE,2
+forty Thousand pounds' Stock,MONEY,2
+a-year,DATE,2
+Memoires,PERSON,2
+Angel Noble,PERSON,2
+28s,CARDINAL,2
+fourteen,CARDINAL,2
+"Commodities, Trade",ORG,1
+Vintage,ORG,1
+142,CARDINAL,1
+one hundred years past,DATE,1
+Malesties Praeemption,ORG,1
+55,CARDINAL,1
+Grower,PERSON,1
+the Wool Grower,LAW,1
+Combination,ORG,1
+Commonweal,ORG,1
+Counterpoise,PERSON,1
+Engrossing of Trade,ORG,1
+Hardheads,GPE,1
+"Plackx, Atchisons, Nonsunts",ORG,1
+Turnovers,ORG,1
+"the Realm, & the merchandizing exchange",ORG,1
+sixty pence,MONEY,1
+the west Indies,ORG,1
+the Realm &,ORG,1
+"Madril, Lions, Civil,",ORG,1
+this fifty years,DATE,1
+exchequer & mints,ORG,1
+8 pence,MONEY,1
+2 pence,MONEY,1
+the Plantation of Virginia,ORG,1
+Bermodaes,PERSON,1
+Unprofitable,ORG,1
+Certes,NORP,1
+Elephantike Body,ORG,1
+Transportation,ORG,1
+Defective,PERSON,1
+Politic,NORP,1
+Policy of the Turk,WORK_OF_ART,1
+lib,PERSON,1
+Ariſtotles,GPE,1
+Action and Paſsion,ORG,1
+Labyrinth,GPE,1
+Actiue,PRODUCT,1
+Paſsiue,PERSON,1
+Woll,ORG,1
+61,CARDINAL,1
+Goodnes,ORG,1
+Hee,PERSON,1
+Maieſties Coyne,FAC,1
+the Commodities of Holland,ORG,1
+Kingdome,ORG,1
+Petitio,NORP,1
+Boores,PERSON,1
+Countrey,PERSON,1
+Linnens,PERSON,1
+Publia menſura,PERSON,1
+Chronicles,PERSON,1
+six shillings,MONEY,1
+Lisbon,GPE,1
+Hollanders,ORG,1
+Serpent Aspis,PERSON,1
+the Trade of Calicoes,ORG,1
+Infidels,NORP,1
+Christians,NORP,1
+South Barbary,GPE,1
+Cambrics,GPE,1
+Linen,ORG,1
+the Materials of the kingdom,WORK_OF_ART,1
+Engliſh,PERSON,1
+Sterling,ORG,1
+200 pounds Flemiſh,QUANTITY,1
+100 pounds Sterling,MONEY,1
+198 pounds,MONEY,1
+9 pence,MONEY,1
+Quantity,NORP,1
+Naturall Exchange,ORG,1
+ſo,PERSON,1
+the Double Rider,ORG,1
+Iacobus,ORG,1
+Iudicious,ORG,1
+62,CARDINAL,1
+Price,FAC,1
+Buying and Selling,WORK_OF_ART,1
+becauſe mony,PERSON,1
+becauſe hee,PERSON,1
+moſt skill,PERSON,1
+hath moſt aduantage,PERSON,1
+15000 00,DATE,1
+00 100000 00 00,DATE,1
+the Trade of Raw-,ORG,1
+yearly,DATE,1
+dutch,NORP,1
+Viz,PERSON,1
+the East-India Company,ORG,1
+150000,DATE,1
+5626 00 00 150000,DATE,1
+2500,CARDINAL,1
+1666 13 04 200000,DATE,1
+11666 13 04 107140,DATE,1
+China Raw,ORG,1
+37499,DATE,1
+yearly 100000,DATE,1
+l. s. d. 2500000,PERSON,1
+d. ob,PERSON,1
+26041,DATE,1
+13 04,CARDINAL,1
+East-India,GPE,1
+Pepper,GPE,1
+thirty,CARDINAL,1
+the East-India,LOC,1
+08,CARDINAL,1
+40000,CARDINAL,1
+12000 00 00.,DATE,1
+6.s,CARDINAL,1
+6000 00 00.,DATE,1
+160000,DATE,1
+2.s,CARDINAL,1
+20000 00 00 150000,DATE,1
+20d,DATE,1
+33333.l,CARDINAL,1
+06,CARDINAL,1
+Hampshire,GPE,1
+The East-India Trade,LOC,1
+Ships Essex,ORG,1
+Kent,PERSON,1
+Berkshire,PERSON,1
+Trenalls,ORG,1
+this fifteen years,DATE,1
+Bills,GPE,1
+Bartholomew,PERSON,1
+Gerome,GPE,1
+the Procurations or Commissions,ORG,1
+Commission of a Merchant,ORG,1
+a Letter of Credit,ORG,1
+Drapers,PERSON,1
+Shopkeeper,WORK_OF_ART,1
+Mediator,DATE,1
+some days,DATE,1
+The East-India Trade,ORG,1
+Christian,NORP,1
+Standard,PERSON,1
+Coin of other Countries,ORG,1
+Procuration,ORG,1
+5.s,CARDINAL,1
+37000 00 00,DATE,1
+06 08,DATE,1
+this Trade in Spice,ORG,1
+13.s,CARDINAL,1
+Less than 18,CARDINAL,1
+Spice,ORG,1
+less than a quarter,DATE,1
+Manors,PRODUCT,1
+Manors or Farms,WORK_OF_ART,1
+Grandfather,PERSON,1
+the Custom of Merchants,ORG,1
+breaketh,PERSON,1
+Kings,ORG,1
+"the Banks of Madrill, Lions",ORG,1
+Usurers,PERSON,1
+the Judgement and Experience of my Country Men,ORG,1
+Money,FAC,1
+Judgements of,PERSON,1
+the Todd of Wool,WORK_OF_ART,1
+findeth,PERSON,1
+Publicae Mensura,PERSON,1
+Negotiativa,ORG,1
+leaveth,PERSON,1
+Bullion or Ryals of Plate,ORG,1
+"Cloth, Bays, Perpetuanoes",ORG,1
+forty thousand pounds,QUANTITY,1
+Tobacco,GPE,1
+Realme,ORG,1
+January 1726,DATE,1
+twenty-four,QUANTITY,1
+Pepper and Calicoes,ORG,1
+seven hundred and forty,CARDINAL,1
+one-eleventh,CARDINAL,1
+Monnoies,ORG,1
+439,CARDINAL,1
+81,CARDINAL,1
+only two,CARDINAL,1
+the Spanish West Indies,EVENT,1
+Plymouth,ORG,1
+Fermers,ORG,1
+five hundred pounds,MONEY,1
+Warlike Provisions,ORG,1
+Shipping,GPE,1
+the 29th,DATE,1
+twenty-four,CARDINAL,1
+two or three year's,DATE,1
+Monsieur Bodine,ORG,1
+mensura,ORG,1
+General Rules,ORG,1
+ten or twelve,CARDINAL,1
+month,DATE,1
+ten and twelve,CARDINAL,1
+the united Low Provinces 1622,ORG,1
+Article mentioned,LAW,1
+Magistrates of the,ORG,1
+netherlands golden Royals,ORG,1
+Officers,PRODUCT,1
+Treasurors,ORG,1
+Newfoundland Fish,ORG,1
+Hercules' Labours,WORK_OF_ART,1
+Motus,ORG,1
+Permutation of Monies,ORG,1
+eleven to twelve,CARDINAL,1
+1611,DATE,1
+eleven ounces,QUANTITY,1
+18d,DATE,1
+about one half,CARDINAL,1
+John Smith,PERSON,1
+the last and third,DATE,1
+wherein inequality,PERSON,1
+Merchant's Valuation,WORK_OF_ART,1
+"This Revolution of Trade, Sundry",EVENT,1
+Accidents,ORG,1
+Maryland,GPE,1
+Islands,ORG,1
+Lender,ORG,1
+Sufferers,ORG,1
+2 l. per,PERCENT,1
+Subject,ORG,1
+Matthew,PERSON,1
+Decker,PERSON,1
+English East,LOC,1
+Prince's Valuation,ORG,1
+4 l.,PERCENT,1
+Countries,GPE,1
+1 l. per,PERCENT,1
+Sell,PERSON,1
+Cheap,PRODUCT,1
+2 l.,PERCENT,1
+Losses,PERSON,1
+Undoing,ORG,1
+Customs,ORG,1
+Taxes,ORG,1
+thirdly,ORDINAL,1
+Credit of Land,ORG,1
+Money in the Purchase,WORK_OF_ART,1
+Labour,ORG,1
+One thousand Pounds,MONEY,1
+the Angel Noble,FAC,1
+six shillings eight pence,MONEY,1
+Iron,ORG,1
+Guinea,GPE,1
+Binea,GPE,1
+Africa,LOC,1
+thirty one years,DATE,1
+"Iron, Led, Tin",ORG,1
+Glass,PERSON,1
+Tenant,PRODUCT,1
+Lease,ORG,1
+Wools,ORG,1
+Loser,PERSON,1
+40 thousand pounds,QUANTITY,1
+the Valuation of Merchants,ORG,1
+five thousand Guilders,MONEY,1
+Contingencies,ORG,1
+Howbeit Exchange of Moneys,ORG,1
+Commodities and Moneys,WORK_OF_ART,1
+Praeemption,ORG,1
+the Dukes of Cornwall,WORK_OF_ART,1
+Wales Charles,PERSON,1
+james,PERSON,1
+this Instance of Woollen Manufacture,ORG,1
+Purchaser,NORP,1
+Accusation,ORG,1
+one hundred Guilders,CARDINAL,1
+Commanding the Auditors,WORK_OF_ART,1
+Banks,ORG,1
+Prohibiting all Receivers,WORK_OF_ART,1
+this Our Proclamation,ORG,1
+the Spanish Ryall,FAC,1
+Proportions,ORG,1
+seven shillings six pence,MONEY,1
+Exchange of England,ORG,1
+Pound,FAC,1
+Commodities and Exchange,ORG,1
+three penny,MONEY,1
+altho,PERSON,1
+Ducat,GPE,1
+Foreign Manufactors,ORG,1
+every week,DATE,1
+Honour,NORP,1
+i. e. the Nation,PERSON,1
+the Importation and Consumption of Abundance,ORG,1
+Lawns,PERSON,1
+Hollands,ORG,1
+Considerable Diminution,ORG,1
+Silks,ORG,1
+Hull,PERSON,1
+Hans,PERSON,1
+jews,NORP,1
+Foreign Ware,ORG,1
+Equality and Equity,ORG,1
+Retailer,PERSON,1
+Grower,WORK_OF_ART,1
+Brokers,PERSON,1
+the Money of each,WORK_OF_ART,1
+"thirty, forty",DATE,1
+Foreigner,ORG,1
+Yards,PERSON,1
+Breadth,NORP,1
+Retailers,ORG,1
+Public Officers,PERSON,1
+Sell,ORG,1
+Grower,ORG,1
+Stock of Sheep,ORG,1
+fifty year's,DATE,1
+Rent and Value of Land,ORG,1
+Societies of English,ORG,1
+Regulations,PERSON,1
+Ready Money,ORG,1
+VI The Price of Wool,WORK_OF_ART,1
+East-India Commodities,ORG,1
+Bengall Silk,ORG,1
+Bengall,GPE,1
+the Turkey Merchants,ORG,1
+the Importation of Silk,ORG,1
+Cash Book,WORK_OF_ART,1
+Bailifeses,ORG,1
+Piler,PERSON,1
+Sprats,PERSON,1
+eight months,DATE,1
+200 tons,QUANTITY,1
+Five or six years,DATE,1
+Coinage,PRODUCT,1
+all cheap years,DATE,1
+Decay,PERSON,1
+the European World,ORG,1
+the East-India Commodities,LOC,1
+the Trade of the East-Indies,ORG,1
+8 d. the pound,QUANTITY,1
+Cinnamon,ORG,1
+15 s. per pound,QUANTITY,1
+Bantam,PERSON,1
+Cobblers,ORG,1
+Red Herrings,ORG,1
+Different,PERSON,1
+the Common Trade,ORG,1
+Interest,GPE,1
+d.,PERSON,1
+Moneta,PERSON,1
+Blood,FAC,1
+Island,LOC,1
+Interest of Money,ORG,1
+this year,DATE,1
+two hundred and fifty thousand pounds,CARDINAL,1
+fifty thousand pounds,QUANTITY,1
+Interest Money,ORG,1
+five or six Years,DATE,1
+Woollen Manufactures,PERSON,1
+the King of Persia,PERSON,1
+Bengal Silk,PERSON,1
+Strength,PERSON,1
+Happiness,ORG,1
+Leases,LOC,1
+Authority,ORG,1
+Contract,WORK_OF_ART,1
+Predominant and Active,WORK_OF_ART,1
+Wareswil,ORG,1
+Banks and Bankers o● Christendom,ORG,1
+the first of December,DATE,1
+the year 1520,DATE,1
+twenty five,CARDINAL,1
+Shipping,ORG,1
+twenty eight,DATE,1
+twenty eight,CARDINAL,1
+Kingdoms,PERSON,1
+the East Countries,LOC,1
+Sight,ORG,1
+between four and five pence,CARDINAL,1
+Monopolist,NORP,1
+Masts,NORP,1
+Tackling,GPE,1
+"Cordage, Ordnance, Victuals,",ORG,1
+Munition and Provisions,ORG,1
+Commanders,ORG,1
+Societies,PERSON,1
+the Sole Importing or,FAC,1
+the Common Libertie,ORG,1
+the Publique Vtility of the Kingdome,ORG,1
+some one,CARDINAL,1
+engrosse,NORP,1
+Doller,GPE,1
+Species,PERSON,1
+Publique Vtility,ORG,1
+the Common Losse,ORG,1
+Suit of Mill,ORG,1
+Tolle,GPE,1
+Milles,PERSON,1
+the Publike Liberty,ORG,1
+the Setting of the Price,ORG,1
+Publique,NORP,1
+Deare,ORG,1
+Greater,LOC,1
+Aristotle of Thales Milesius,ORG,1
+Astrologie,PERSON,1
+the winter,DATE,1
+Oyles,PRODUCT,1
+the Ilands of Melazo & Chius,ORG,1
+Specie,GPE,1
+Bengal,GPE,1
+the Trade of Bengal,ORG,1
+Banckes,ORG,1
+Banckiers,NORP,1
+Banck,PERSON,1
+the Banck Money,LAW,1
+Quantities,LOC,1
+Lesse,GPE,1
+Edward I.,PERSON,1
+Sovereign King,PERSON,1
+taken complexly,PERSON,1
+only half,CARDINAL,1
+james Laureate,PERSON,1
+the Bill of Exchange,LAW,1
+half a century,DATE,1
+Broker of Exchange,ORG,1
+3:18s,MONEY,1
+3:19s,MONEY,1
+3:17:7,MONEY,1
+Protested Bills,GPE,1
+Locke,PERSON,1
+Three pounds seventeen,QUANTITY,1
+tenpence halfpenny,PERSON,1
+Change,ORG,1
+Trade and Traine,ORG,1
+Money for Wares,ORG,1
+most years,DATE,1
+the 18th of Elizabeth,DATE,1
+a third,CARDINAL,1
+the Notaries Protest,ORG,1
+Letters of Advice,ORG,1
+Acquittances,PERSON,1
+Forreine,GPE,1
+Sixth,ORDINAL,1
+The French Company The French Company,ORG,1
+Order,PERSON,1
+Broker of Exchanges,WORK_OF_ART,1
+Forreine,PRODUCT,1
+Notary,PERSON,1
+Trades,FAC,1
+two or three days,DATE,1
+forty or fifty years ago,DATE,1
+two or three hundred,DATE,1
+Highland,LOC,1
+Bullion and Moneys,WORK_OF_ART,1
+hath,PERSON,1
+Appendix,PERSON,1
+March 1764,DATE,1
+twenty to sixty,CARDINAL,1
+Leith,ORG,1
+seven-pence,MONEY,1
+Lerwick,ORG,1
+Isocrates,GPE,1
+an age or,DATE,1
+those latter years,DATE,1
+Alteration of Money,WORK_OF_ART,1
+Usance,ORG,1
+an additional five,CARDINAL,1
+forty per cent,MONEY,1
+about seven,CARDINAL,1
+three or,DATE,1
+a thousand per cent,MONEY,1
+fifty or,CARDINAL,1
+More than a thousand,CARDINAL,1
+the united kingdom,GPE,1
+Eighteen pence,MONEY,1
+seven pence,MONEY,1
+a few miles,QUANTITY,1
+"thirty or forty years
+      ago",DATE,1
+The Running Lotaries,ORG,1
+a cheap year,DATE,1
+Lotaries,ORG,1
+Carbuncles,PERSON,1
+Letters Patents,ORG,1
+Occidental,ORG,1
+Oriental Pearls,ORG,1
+the beginning of our East-India,DATE,1
+s. d.,PERSON,1
+Barocos,PERSON,1
+Entreneto,WORK_OF_ART,1
+30 0,DATE,1
+Carrat,ORG,1
+36 0,DATE,1
+60 0,DATE,1
+200,CARDINAL,1
+Table,ORG,1
+the Island of Zeilan,LOC,1
+the Indians Manecas,ORG,1
+5d,CARDINAL,1
+4d,CARDINAL,1
+2½d,DATE,1
+2¾d,DATE,1
+halfpenny dearer,PERSON,1
+a Grains 25,LAW,1
+120,CARDINAL,1
+3 pro cent,MONEY,1
+Havens,PERSON,1
+March,DATE,1
+Ports,ORG,1
+dear year,DATE,1
+twenty-seven,CARDINAL,1
+Bills of Entries,ORG,1
+3d,CARDINAL,1
+Customhouse,GPE,1
+Variations,ORG,1
+last Centuries,DATE,1
+First Period.—In 1350,ORG,1
+about twenty,CARDINAL,1
+the Bills of Entries,ORG,1
+Rouen and Calais,ORG,1
+Herrings,GPE,1
+Four ounces,QUANTITY,1
+muscovada,GPE,1
+Flanders,ORG,1
+Locatio,ORG,1
+Kerseys and Tin,ORG,1
+Tripoli,GPE,1
+Assuror,GPE,1
+Frezier,ORG,1
+four centuries,DATE,1
+"Accizes, Imposts",ORG,1
+Winchester,PRODUCT,1
+the twelve years preceding 1764,DATE,1
+that year,DATE,1
+2:1:9½d,CARDINAL,1
+a hundred and fifty to two,CARDINAL,1
+"a
+      hundred and seventy-five",CARDINAL,1
+Princes and Commonweals,ORG,1
+Round Pearl,PRODUCT,1
+1600,CARDINAL,1
+Carratt,PERSON,1
+Yellow Pearl,PERSON,1
+Pearl,GPE,1
+Quod,PERSON,1
+the month of March,DATE,1
+the first twelve years of the last century,DATE,1
+Prerogatives,ORG,1
+two penny,MONEY,1
+1562,DATE,1
+5th,ORDINAL,1
+the end of the fifteenth,DATE,1
+refuseth,ORDINAL,1
+the two centuries,DATE,1
+"Dupré de
+      ",PERSON,1
+the Owners or Partners,ORG,1
+more than two hundred years,DATE,1
+Partenership,GPE,1
+Vsura,PERSON,1
+about seventy years past,DATE,1
+the 1st and 2nd,DATE,1
+Philip,GPE,1
+Equal Exchange,ORG,1
+10 22,DATE,1
+the Exchanges of England,GPE,1
+Henry III,PERSON,1
+Seville,GPE,1
+the middle of the fourteenth century,DATE,1
+Tower,PERSON,1
+Leghorn,ORG,1
+Civita Vecchia,PERSON,1
+the beginning of the fourteenth century,DATE,1
+Wardhouse,ORG,1
+1309,DATE,1
+Ralph de Born,PERSON,1
+St Augustine’s,PERSON,1
+Canterbury,GPE,1
+William Thorn,PERSON,1
+Bourdeaux,GPE,1
+Bishop Fleetwood,ORG,1
+Rochel,GPE,1
+fidelity,ORG,1
+three or,CARDINAL,1
+Lubeck,GPE,1
+Mr Byron,ORG,1
+Chili,GPE,1
+Denmark,GPE,1
+the last twelve years,DATE,1
+Biscay,GPE,1
+"1598, 1599",DATE,1
+1600,DATE,1
+1601,DATE,1
+thirteenth,ORDINAL,1
+"the middle of the sixteenth
+      century",DATE,1
+the end of the sixteenth century,DATE,1
+"Dansicke, Riga, Revel",GPE,1
+Sweaden,GPE,1
+twenty shillings nine pence,MONEY,1
+the Statute Laws of England,LAW,1
+Efficient,ORG,1
+the twelve years,DATE,1
+no more than eighty years,PERCENT,1
+four years,DATE,1
+the Essay on the Policy of Grain,ORG,1
+Conquest,ORG,1
+Julius Caesar,ORG,1
+14,DATE,1
+Mr Ruffhead,PERSON,1
+the States of the United Provinces,ORG,1
+the Archduke Albertus,ORG,1
+forty five,DATE,1
+twenty four shillings,QUANTITY,1
+Tenants,NORP,1
+"Money and Bullion, Enhancing of Silver",ORG,1
+thirty two,CARDINAL,1
+two marks,MONEY,1
+the Burgundian Doller,FAC,1
+Saint Andrew's Cross,PERSON,1
+the year 1567,DATE,1
+last century,DATE,1
+Custom,NORP,1
+Maxim,ORG,1
+Compass,PERSON,1
+Kingdoms,GPE,1
+West-Indies Fleet,ORG,1
+Vintner,PERSON,1
+the Base Money,ORG,1
+2:1:6,MONEY,1
+the Silver Bullion,ORG,1
+1:16:10,MONEY,1
+Barrel,ORG,1
+Butt,GPE,1
+Pipe,ORG,1
+The Pleasure of Princes,WORK_OF_ART,1
+1637 to 1700,DATE,1
+about two,CARDINAL,1
+about ten,CARDINAL,1
+six and eight ounces,TIME,1
+"about
+      thirty",CARDINAL,1
+1570,DATE,1
+more than twenty years before,DATE,1
+1595 to 1620,DATE,1
+nine bushels,QUANTITY,1
+the Valuation of Moneys,ORG,1
+more than five,CARDINAL,1
+about nine,CARDINAL,1
+the sixteen years,DATE,1
+Inuoice,ORG,1
+the twenty-six years preceding 1620,DATE,1
+about thirty-two,CARDINAL,1
+Cargasson,PERSON,1
+Invoice,GPE,1
+Maluidies,ORG,1
+"every
+      year",DATE,1
+Conditions,ORG,1
+the West-Indies Fleet,ORG,1
+permitteth,PERSON,1
+Monsieur Malestroit,ORG,1
+three hundreth years,DATE,1
+2:11:0,CARDINAL,1
+only 1s,CARDINAL,1
+dearer,PERSON,1
+"the
+      sixteen years before",DATE,1
+King,LOC,1
+4:5s,MONEY,1
+Politician,PERSON,1
+cutteth,PERSON,1
+the royal Exchange,ORG,1
+seventy two thousand,CARDINAL,1
+Commodities,FAC,1
+Cravo di Bastao,PERSON,1
+13 ½ pence,MONEY,1
+The Flat Diamonds,ORG,1
+Henry the,PERSON,1
+Diamond,ORG,1
+That Saint Lewis,PERSON,1
+one-tenth,CARDINAL,1
+1736,DATE,1
+sixty four,CARDINAL,1
+Values of Gold,ORG,1
+one to ten,CARDINAL,1
+ten to twelve ounces,QUANTITY,1
+the Value of Silver,ORG,1
+eight ounces,QUANTITY,1
+these ten years,DATE,1
+only £ 1:6:8,MONEY,1
+Between 1741 and 1750,DATE,1
+that single year,DATE,1
+"no less than £ 324,176:10:6",MONEY,1
+"the Corn Trade, Tract",ORG,1
+twentieth,ORDINAL,1
+that very year,DATE,1
+Philip de Valois,ORG,1
+the most plentiful years,DATE,1
+the Essay on the Police of Grain,ORG,1
+ten or twelve years past,DATE,1
+the Flower de Luce,ORG,1
+Artificers,PERSON,1
+Husbandman,ORG,1
+The Fertility of France,ORG,1
+Gregory King,PERSON,1
+Plato,PERSON,1
+all common years,DATE,1
+Charles I.,PERSON,1
+II,CARDINAL,1
+5-7ths,CARDINAL,1
+Mr King,PERSON,1
+twenty-pence,MONEY,1
+King Francis,PERSON,1
+twelve bushels,QUANTITY,1
+Pope Paul,PERSON,1
+twelve to six,CARDINAL,1
+Burcester Oxford,PERSON,1
+two years old,DATE,1
+February 1773,DATE,1
+the King of England,ORG,1
+Imposts,PERSON,1
+Third Sort.—The third,DATE,1
+"the
+      fourteenth century",DATE,1
+about 1339,CARDINAL,1
+twenty-eight pounds,MONEY,1
+Smith,PERSON,1
+c. 5,DATE,1
+Lib,PERSON,1
+the Queen of Candace: and in the West Indies,WORK_OF_ART,1
+Bank at Lions,ORG,1
+Assurors,ORG,1
+"Cables, Anchors",ORG,1
+Aueridges,ORG,1
+the Union with England,ORG,1
+Buffon,PERSON,1
+whereunto,NORP,1
+Pirates,GPE,1
+Sicily,GPE,1
+seasons of the year,DATE,1
+Agrippina,GPE,1
+six thousand,CARDINAL,1
+about fifty pounds,QUANTITY,1
+Asinius Celer,PERSON,1
+compelleth us,PERSON,1
+Parity,ORG,1
+Russian,LANGUAGE,1
+Russians,NORP,1
+Policy,GPE,1
+Blood,GPE,1
+Money and Bullion,ORG,1
+Paulus Aemilius,ORG,1
+more than three,CARDINAL,1
+1584,DATE,1
+at least three,CARDINAL,1
+The Basis of Exchange,ORG,1
+Basis,ORG,1
+Miller,PERSON,1
+Momus,PRODUCT,1
+Columbus,GPE,1
+the King and Commonwealth,ORG,1
+Prerogative Royal,ORG,1
+Sheffield,GPE,1
+Office of the King's,ORG,1
+Boters,ORG,1
+1487,DATE,1
+4th,ORDINAL,1
+two quarters,DATE,1
+twenty or thirty years ago,DATE,1
+"a few
+      years ago",DATE,1
+1769,DATE,1
+two years,DATE,1
+the preceding century,DATE,1
+this fall,DATE,1
+more than a century ago,DATE,1
+the present season,DATE,1
+6. 8,DATE,1
+considerandus & inspiciendus,ORG,1
+Plare,ORG,1
+Archdutchesse,NORP,1
+Austria,GPE,1
+three pound,QUANTITY,1
+Sun,LOC,1
+Merchant's Strangers,WORK_OF_ART,1
+Primum Mobile,WORK_OF_ART,1
+Hedgmint,PERSON,1
+the United Provinces of,ORG,1
+Frankes,GPE,1
+K. saint Lewis,ORG,1
+Denier,ORG,1
+16749,DATE,1
+8 ounces,QUANTITY,1
+the hours,TIME,1
+Douzaine,ORG,1
+Monsieur Garrault,PERSON,1
+quantitatis subveniat,PERSON,1
+the Exchange for Money,ORG,1
+a hundred and twenty years,DATE,1
+Paul Aemylius,PERSON,1
+Marius,ORG,1
+Sylla,PERSON,1
+Histories,ORG,1
+Lucullus,GPE,1
+Religion,ORG,1
+Pompey,PERSON,1
+Kingdoms and Commonweals,ORG,1
+"the years, months, weeks",DATE,1
+Caesar,ORG,1
+fifty or sixty years,DATE,1
+Gentleman,NORP,1
+the Balance of Trade,ORG,1
+one quarter and one half quarter,DATE,1
+understandeth,PERSON,1
+the Par of Exchange,ORG,1
+the Currant Exchange,ORG,1
+those days 16,DATE,1
+Strangers Custom,PERSON,1
+1914,DATE,1
+Paulus Aemylius,ORG,1
+Monopolies,ORG,1
+the Queen of Candace,WORK_OF_ART,1
+romans,NORP,1
+above two thirds,CARDINAL,1
+Grafton,PERSON,1
+Chronicle of England,WORK_OF_ART,1
+Edward,PERSON,1
+the year 1350,DATE,1
+Satutes,PERSON,1
+Cumberland,ORG,1
+Licence,GPE,1
+the Custom House,ORG,1
+Strangers,ORG,1
+135,CARDINAL,1
+no more than 2,CARDINAL,1
+Saint Lewis,GPE,1
+five and forty pence,MONEY,1
+Duchess,ORG,1
+thirty shillings,MONEY,1
+Nature,WORK_OF_ART,1
+Climates,GPE,1
+about 80 years past,DATE,1
+the Rickx Doller,PRODUCT,1
+gold & silver,ORG,1
+150 pound,QUANTITY,1
+"Commodities and Money are Passive, Commodities and Money",WORK_OF_ART,1
+450 Dollars,MONEY,1
+Henry the 8,PERSON,1
+the 18 year,DATE,1
+the Archduke of Burgundy,ORG,1
+"the Seas, Merchants",ORG,1
+Woolegrower,ORG,1
+3 pence,MONEY,1
+60 pence,MONEY,1
+Toison,ORG,1
+"the angel, & was",ORG,1
+Whereunto,GPE,1
+Gain the Centre,ORG,1
+the Queen of England,WORK_OF_ART,1
+20 pence,MONEY,1
+Raisins,GPE,1
+Figs,PERSON,1
+Superfluities,GPE,1
+Crowns,PERSON,1
+one hundredth pounds,QUANTITY,1
+Satin 5,LAW,1
+Noblemen,PERSON,1
+William Sanderson,PERSON,1
+Merchant Adventurer,PERSON,1
+the Month of April 1622,DATE,1
+the Rule of exchange,ORG,1
+Rule,PERSON,1
+Print,GPE,1
+Bat,PERSON,1
+Bolonia Sarsenet,ORG,1
+Messina,PERSON,1
+Chamblet,ORG,1
+Italian,NORP,1
+"Lawns, Cambrics",ORG,1
+3 and 4 pound,QUANTITY,1
+12 pound,QUANTITY,1
+33 s. 4 d,QUANTITY,1
+Circle,LOC,1
+"Mysteries, &",ORG,1
+Stone,ORG,1
+Pumex,NORP,1
+Bird,ORG,1
+Bird,PERSON,1
+Tree,WORK_OF_ART,1
+Heighfer,GPE,1
+fustians,NORP,1
+Three Distinction,ORG,1
+18 pound,QUANTITY,1
+Doller,FAC,1
+15 pound,QUANTITY,1
+the last year,DATE,1
+Satin 6,LAW,1
+Damask,PERSON,1
+700 pound,QUANTITY,1
+25 pounds,QUANTITY,1
+80 years past,DATE,1
+Moscovia,GPE,1
+Bees of a,ORG,1
+Contract,ORG,1
+Velvets and Silks,WORK_OF_ART,1
+this Positive Exchange,ORG,1
+37 s. 8 d.,QUANTITY,1
+a few years ago,DATE,1
+Scrivener,NORP,1
+3:17:10,MONEY,1
+between two and a half and three,DATE,1
+the Bank of England,ORG,1
+Bank of England,ORG,1
+Contracts,ORG,1
+Fabrica,PERSON,1
+Satin,PERSON,1
+Londonner,PERSON,1
+Hamborough &,ORG,1
+the Rickx Doller,ORG,1
+52,CARDINAL,1
+54,CARDINAL,1
+Richard Martin Knight,PERSON,1
+Richard Saltonstall,PERSON,1
+Henery,PERSON,1
+Thomas,PERSON,1
+Lord Knynet,PERSON,1
+john Williams,PERSON,1
+Placcart,ORG,1
+21 of july 1622,DATE,1
+so many months,DATE,1
+Rule of Arithmitike,ORG,1
+4 6/11,CARDINAL,1
+Stivers,NORP,1
+42,DATE,1
+the Consumption of foreign Commodities,ORG,1
+a Merchant of Middleborough,WORK_OF_ART,1
+aequum & bonum,ORG,1
+Money and Exchange,ORG,1
+this day,DATE,1
+Stivers or,WORK_OF_ART,1
+Stand,ORG,1
+1564,DATE,1
+year 1575,DATE,1
+Majesties,ORG,1
+Privy Council,ORG,1
+more than ten,CARDINAL,1
+Six pence,MONEY,1
+4. pence,MONEY,1
+about five,CARDINAL,1
+"six
+      months",DATE,1
+the year 1586,DATE,1
+one-half,CARDINAL,1
+Robert Dudley,PERSON,1
+four per cent,MONEY,1
+a mile,QUANTITY,1
+"twenty
+      miles",QUANTITY,1
+eighty pounds,MONEY,1
+several thousand,CARDINAL,1
+Brazil,GPE,1
+Earl of Leycester,PERSON,1
+the Trade of Cloth,ORG,1
+Every year,DATE,1
+more than,CARDINAL,1
+"the
+      year",DATE,1
+1752,DATE,1
+Mr Hume,PERSON,1
+Discourses,ORG,1
+Pennsylvania,GPE,1
+1722,DATE,1
+Between thirty and forty years ago,DATE,1
+Canker,ORG,1
+Between ten and fifteen years ago,DATE,1
+seventeen to twenty,CARDINAL,1
+Satan,FAC,1
+105,CARDINAL,1
+Request,PERSON,1
+Nullum,ORG,1
+another six months,DATE,1
+46,DATE,1
+nine per cent,MONEY,1
+agio,PERSON,1
+every particular year,DATE,1
+Rate,ORG,1
+one century,DATE,1
+eighteen to four,CARDINAL,1
+Guilders,ORG,1
+Rix-dollars,LAW,1
+2   8,CARDINAL,1
+11-12ths,CARDINAL,1
+21 Guilders,MONEY,1
+5 guilders,MONEY,1
+"the end of the six
+      months",DATE,1
+one fourth or,CARDINAL,1
+Queen Elizabeth,PERSON,1
+Abstract,ORG,1
+4 Dollars,MONEY,1
+THE Monies of Christendom,ORG,1
+83,CARDINAL,1
+September 1775,DATE,1
+SILVER,ORG,1
+22  ,MONEY,1
+Labyrinth,ORG,1
+more than a century,DATE,1
+the 12th,DATE,1
+Usurer,PERSON,1
+Usury of Course,ORG,1
+the Drapery of foreign Nations,ORG,1
+"Hamborough, Stoade",ORG,1
+45,DATE,1
+20s,DATE,1
+24s,DATE,1
+32s,DATE,1
+twenty four shillings nine,QUANTITY,1
+the 15th,DATE,1
+so high as,CARDINAL,1
+Yronmongers,ORG,1
+Hatchets,GPE,1
+Bells,PERSON,1
+Beads,GPE,1
+Needles,GPE,1
+Proclamation,PRODUCT,1
+the 18. year,DATE,1
+Moluccas,GPE,1
+the beginning of the season,DATE,1
+The Angel Noble,WORK_OF_ART,1
+Starlin Silver,PERSON,1
+45 pence,MONEY,1
+the Office of the King's,ORG,1
+King Edward,PERSON,1
+the hundred,CARDINAL,1
+Indicoe,PERSON,1
+Praeemption,PERSON,1
+twenty-two,CARDINAL,1
+211,CARDINAL,1
+Praeemption of Tin,ORG,1
+forty-eight pounds,QUANTITY,1
+every hundred ounces,QUANTITY,1
+five-and-twenty,TIME,1
+at least five,CARDINAL,1
+eighteen,CARDINAL,1
+forty-four,CARDINAL,1
+Matthew Decker,PERSON,1
+about twenty or,CARDINAL,1
+about fourteen,CARDINAL,1
+fifteen per cent,MONEY,1
+a-ton,QUANTITY,1
+more than sixty,CARDINAL,1
+Droits,PERSON,1
+210,CARDINAL,1
+canton,GPE,1
+Berne,NORP,1
+Government Errors,ORG,1
+Droits,ORG,1
+Lucern,ORG,1
+ten per cent,MONEY,1
+about twenty-seven,CARDINAL,1
+Drapery,ORG,1
+16s,CARDINAL,1
+Rates,ORG,1
+2s,CARDINAL,1
+Todde,ORG,1
+Plin,PERSON,1
+"more than £30,000",MONEY,1
+"more than £300,000",MONEY,1
+4 Rickx Dollars,MONEY,1
