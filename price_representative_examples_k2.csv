@@ -1,0 +1,24 @@
+doc_id,sentence_id,matched_form,context,start_char,end_char,cluster,umap1,umap2,dist_to_cluster_0,dist_to_cluster_1,dist_to_cluster_2,representative_cluster
+wealth.txt,7550,price,"To depress the price of this commodity below what
+      may be called its natural and proper price, was the avowed purpose of
+      those regulations; and there seems to be no doubt of their having produced
+      the effect that was expected from them.",93,98,0,-1.6134003,4.1908994,4.9062634,5.2486753,5.245139,0
+wealth.txt,2206,price,"Rent accordingly,
+      seems at the greater part of mines to have but a small share in the price
+      of the coarse, and a still smaller in that of the precious metals. labor
+      and profit make up the greater part of both.",92,97,0,-4.0956874,2.6879213,4.9979587,5.0603437,5.1292214,0
+wealth.txt,7289,price,"But if
+      the profits of those who deal in such goods are above their proper level,
+      those goods will be sold dearer than they ought to be, or somewhat above
+      their natural price, and all those engaged in the nearer employments will
+      be more or less oppressed by this high price.",186,191,0,-1.6401532,4.1007667,5.037488,5.4987245,5.489973,0
+A06785.txt,149,price,"Starlin, to show how Merchants may be correspondence accommodate each other, to the Kingdom's great loss, by the means of a low Exchange, which must in the comparison needs be under the price supposed in Exchange, and not at 33. s. 4. d, which is called low in regard of the present, and hereupon he doth miscast 100 l. in 1000 l. between the Londoners and the Amsterdamers, with other cavillations in the answering thereof: I though good to observe the same between the price of equal exchange, altered by the enhancing of moneys beyond the Seas at the beginning, when 20. s.",186,191,0,-1.9792905,1.1972692,5.1951323,6.1952367,6.193076,0
+A06788.txt,265,price,"And if our merchants were cut off, and that other nations should buy the cloth within the realm, and so advance the price thereof (as it happeneth most commonly in France and Spain at the vintage time with their wines and raisins) then foreign Commodities would be sold dearer unto us by them again.",116,121,0,-4.474505,1.6578163,5.20204,5.297899,5.3455873,0
+A06785.txt,55,price,"Again, when the price of commodities is raised generally with the price of moneys enhanced; P. 25. shall we contradict the same, because one commodity, as Cloves, is not risen, but sold as a staple ware?",16,21,1,-5.8115664,3.2282183,6.031672,4.297728,4.3287244,1
+A07594__Circle_of_Commerce.txt,183,price,"For it is not the rate of Exchange, whether it be higher or lower, that maketh the price of Comodities deare or cheape, as Malynes would here inferre; but it is the plenty or ſcarcitie of of Commodities, their vſe or Non-vſe, that maketh them riſe and fall in price.",83,88,1,-4.835229,0.96571285,5.44353,4.40424,4.411518,1
+A06788.txt,200,price,"Which true ground must be by making a comparison of the enhancing of the price of the Commodities of one country, with the price of the Commodities of other countries: and thereby to find out, whether things are grown dear with us in effect; and whether we pay more proportionably for the foreign Commodities within the aforesaid time of three hundred years, than we do receive for the price of our home Commodities.",73,78,1,-5.396034,2.2993968,5.895841,4.4300323,4.5129976,1
+wealth.txt,7945,price,"The dearer the latter, therefore, the cheaper the
+      former; and whatever tends in any country to raise the price of
+      manufactured produce, tends to lower that of the rude produce of the land,
+      and thereby to discourage agriculture.",111,116,1,-5.30562,4.07114,6.0813804,4.5292315,4.5593204,1
+A06786.txt,3573,price,"Hence did proceed the cause that when our Gold in the year 1611, The price of Gold not so effectual, as the price of Silver. was advanced ten in the hundreth above the Silver, the prices of commodities did not rise, albeit foreign Nations did cause the price of Exchange to fall.",69,74,1,-5.533433,1.5251285,5.6986847,4.530025,4.5359955,1
